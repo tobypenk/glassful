@@ -10,7 +10,7 @@ class CocktailLinkScraper:
 	    
 	    cl = "recipe-item-detail"
 	    links = []
-	
+		## need a class for checking a file exists and opening it either from local (preferred) or remote origin
 	    soup = BeautifulSoup(open(filepath),'html.parser')
 	    grid = soup.find_all("div", {"class": cl})
 	    grid = BeautifulSoup(str(grid),'html.parser')
