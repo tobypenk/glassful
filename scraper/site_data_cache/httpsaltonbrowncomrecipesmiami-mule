@@ -1,0 +1,1442 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head > <script type="text/javascript">if(!gform){document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0});var gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),null==t&&(t=10),gform.hooks[o][n].push({tag:i,callable:r,priority:t})},doHook:function(o,n,r){if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[o][n]){var t,i=gform.hooks[o][n];i.sort(function(o,n){return o.priority-n.priority});for(var e=0;e<i.length;e++)"function"!=typeof(t=i[e].callable)&&(t=window[t]),"action"==o?t.apply(null,r):r[0]=t.apply(null,r)}if("filter"==o)return r[0]},removeHook:function(o,n,r,t){if(null!=gform.hooks[o][n])for(var i=gform.hooks[o][n],e=i.length-1;0<=e;e--)null!=t&&t!=i[e].tag||null!=r&&r!=i[e].priority||i.splice(e,1)}}}</script>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Miami Mule Tropical Cocktail Recipe | Alton Brown</title>
+	<meta name="description" content="Alton Brown&#039;s tropical twist on a classic cocktail, the Miami mule is a refreshing mix of vodka, blood orange juice, and grapefruit bitters." />
+	<link rel="canonical" href="https://altonbrown.com/recipes/miami-mule/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Miami Mule Tropical Cocktail Recipe | Alton Brown" />
+	<meta property="og:description" content="Alton Brown&#039;s tropical twist on a classic cocktail, the Miami mule is a refreshing mix of vodka, blood orange juice, and grapefruit bitters." />
+	<meta property="og:url" content="https://altonbrown.com/recipes/miami-mule/" />
+	<meta property="og:site_name" content="Alton Brown" />
+	<meta property="article:modified_time" content="2021-05-26T20:14:47+00:00" />
+	<meta property="og:image" content="https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg" />
+	<meta property="og:image:width" content="717" />
+	<meta property="og:image:height" content="554" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://altonbrown.com/#website","url":"https://altonbrown.com/","name":"Alton Brown","description":"","potentialAction":[{"@type":"SearchAction","target":"https://altonbrown.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://altonbrown.com/recipes/miami-mule/#primaryimage","inLanguage":"en-US","url":"https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg","contentUrl":"https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg","width":717,"height":554,"caption":"Alton Brown's Miami Mule Recipe"},{"@type":"WebPage","@id":"https://altonbrown.com/recipes/miami-mule/#webpage","url":"https://altonbrown.com/recipes/miami-mule/","name":"Miami Mule Tropical Cocktail Recipe | Alton Brown","isPartOf":{"@id":"https://altonbrown.com/#website"},"primaryImageOfPage":{"@id":"https://altonbrown.com/recipes/miami-mule/#primaryimage"},"datePublished":"2020-08-21T17:33:25+00:00","dateModified":"2021-05-26T20:14:47+00:00","description":"Alton Brown's tropical twist on a classic cocktail, the Miami mule is a refreshing mix of vodka, blood orange juice, and grapefruit bitters.","breadcrumb":{"@id":"https://altonbrown.com/recipes/miami-mule/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://altonbrown.com/recipes/miami-mule/"]}]},{"@type":"BreadcrumbList","@id":"https://altonbrown.com/recipes/miami-mule/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://altonbrown.com/","url":"https://altonbrown.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://altonbrown.com/recipes/miami-mule/#webpage"}}]},{"@context":"http://schema.org/","@type":"Recipe","name":"Miami Mule","author":{"@type":"Person","name":"Level Agency"},"description":"So, obviously a tropical take on a classic Moscow Mule. Not that anything\u2019s wrong with just vodka and ginger beer. But this version allows me to use grapefruit bitters, which are some of my very favorite bitters, period.This recipe first appeared on altonbrown.com.","datePublished":"2020-08-21T17:33:25+00:00","image":["https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg","https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule-500x500.jpg","https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule-500x375.jpg","https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule-480x270.jpg"],"recipeYield":["1","1 (8-ounce) cocktail"],"prepTime":"PT5M","totalTime":"PT5M","recipeIngredient":["2 fluid ounces vodka","1/2 fluid ounce freshly squeezed lemon juice","1/2 fluid ounce blood orange juice","6 fluid ounces ginger beer, not ale","4 dashes grapefruit bitters"],"recipeInstructions":[{"@type":"HowToStep","text":"Fill a highball or Collins glass with ice. Pour in the vodka, lemon juice, and blood orange juice. Top with the ginger beer and grapefruit bitters. Serve with a swizzle stick.","name":"Fill a highball or Collins glass with ice. Pour in the vodka, lemon juice, and blood orange juice. Top with the ginger beer and grapefruit bitters. Serve with a swizzle stick.","url":"https://altonbrown.com/recipes/miami-mule/#wprm-recipe-5520-step-0-0"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","ratingCount":"2"},"recipeCategory":["Drinks"],"keywords":"Cocktails, Entertaining, Miami Mule, Miami Mule Recipe, Summer, Vodka","@id":"https://altonbrown.com/recipes/miami-mule/#recipe","isPartOf":{"@id":"https://altonbrown.com/recipes/miami-mule/#webpage"},"mainEntityOfPage":"https://altonbrown.com/recipes/miami-mule/#webpage"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//864720.smushcdn.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel='preconnect' href='https://fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Alton Brown &raquo; Feed" href="https://altonbrown.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alton Brown &raquo; Comments Feed" href="https://altonbrown.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/altonbrown.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='alton-brown-css'  href='https://altonbrown.com/wp-content/uploads/hummingbird-assets/5a2f5b459d8097e8fa85d825ed9f3d8f.css' type='text/css' media='all' />
+<link rel='stylesheet' id='myfonts_webfonts_585491-css'  href='https://altonbrown.com/wp-content/plugins/MyFontsWebfontsKit/MyFontsWebfontsKit.css?ver=5.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='exit-popup-css-css'  href='https://altonbrown.com/wp-content/uploads/hummingbird-assets/485c9bf0347e95dc0b854ceaf44b4b07.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css'  href='https://altonbrown.com/wp-content/plugins/add-search-to-menu-premium/public/css/ivory-search.min.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wpshopify-styles-frontend-all-css'  href='https://altonbrown.com/wp-content/plugins/wp-shopify-pro/dist/public.min.css?ver=1623091716' type='text/css' media='all' />
+<script type='text/javascript' src='https://altonbrown.com/wp-content/uploads/hummingbird-assets/9a39618dc163d1cbfbf23db20d2ad98d.js' id='wphb-2-js'></script>
+<link rel="https://api.w.org/" href="https://altonbrown.com/wp-json/" /><link rel="alternate" type="application/json" href="https://altonbrown.com/wp-json/wp/v2/recipes/5827" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://altonbrown.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://altonbrown.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://altonbrown.com/?p=5827' />
+<link rel="alternate" type="application/json+oembed" href="https://altonbrown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faltonbrown.com%2Frecipes%2Fmiami-mule%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://altonbrown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faltonbrown.com%2Frecipes%2Fmiami-mule%2F&#038;format=xml" />
+<style type="text/css"> .wprm-comment-rating svg { width: 16px !important; height: 16px !important; } img.wprm-comment-rating { width: 80px !important; height: 16px !important; } .wprm-comment-rating svg path { fill: #343434; } .wprm-comment-rating svg polygon { stroke: #343434; } .wprm-comment-ratings-container svg .wprm-star-full { fill: #343434; } .wprm-comment-ratings-container svg .wprm-star-empty { stroke: #343434; }</style>		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<link rel="stylesheet" href="https://use.typekit.net/ojx1ujp.css"><link rel="icon" href="https://altonbrown.com/wp-content/uploads/2020/06/cropped-postit-77-sq-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://altonbrown.com/wp-content/uploads/2020/06/cropped-postit-77-sq-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://altonbrown.com/wp-content/uploads/2020/06/cropped-postit-77-sq-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://altonbrown.com/wp-content/uploads/2020/06/cropped-postit-77-sq-270x270.jpg" />
+<style type='text/css'></style><meta name="google-site-verification" content="TYoPEQSVx_Md6TyynLOA3ygYCXofhbcCBbDVEskZlE8" />
+<meta name='ir-site-verification-token' value='-1083130219' />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PCC3QR7');</script>
+<!-- End Google Tag Manager -->	
+
+<script src="/wp-content/themes/alton-brown/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+</head>
+
+<body class="recipes-template-default single single-recipes postid-5827 genesis header-full-width content-sidebar genesis-breadcrumbs-hidden wpshopify">	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe 
+height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-PCC3QR7" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="site-container">
+<div id="header">
+	<div class="site-inner" class="header-inner">
+		<div class="nav-left nav-item nav-section">
+		<div class="burger nav-item"><img  alt="Hamburger menu icon" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Hamburger-Icon.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Hamburger-Icon.png?lossy=1&strip=1&webp=1" alt="Hamburger menu icon"></noscript></div>
+		<a href="/cook"><div class="cook-nav nav-item">COOK</div></a>
+		</div>
+		<div class="nav-center nav-item nav-section">
+		<div class="logo-nav logo-nav-desktop nav-item"><a href="/">
+				<img  alt="Alton Brown logo on one line in white font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-horizontal-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-horizontal-2.png?lossy=1&strip=1&webp=1" alt="Alton Brown logo on one line in white font"></noscript>
+				</a></div>
+		<div class="logo-nav logo-nav-mobile nav-item"><a href="/">
+						<img  style="margin-top: 5px;" alt="Alton Brown logo stacked in white font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-stack-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-stack-2.png?lossy=1&strip=1&webp=1" style="margin-top: 5px;" alt="Alton Brown logo stacked in white font"></noscript>
+					</a></div>
+		</div>
+		<div class="nav-right nav-item nav-section">
+			<div class="nav-right-flip" id="nav-right-flip">
+		<a href="/products"><div class="shop-nav nav-item">SHOP</div></a>
+		<div class="search-nav nav-item"><img  alt="Magnifying glass search icon" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Search.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Search.png?lossy=1&strip=1&webp=1" alt="Magnifying glass search icon"></noscript></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div id="home-scroll-header">
+	<div class="site-inner header-inner">
+		<div class="nav-left nav-item nav-section">
+		<div class="burger nav-item lazyloaded"><img  alt="Hamburger menu icon" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Hamburger-Icon.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Hamburger-Icon.png?lossy=1&strip=1&webp=1" alt="Hamburger menu icon"></noscript></div>
+		<a href="/cook"><div class="cook-nav nav-item">COOK</div></a>
+		</div>
+		<div class="nav-center nav-item nav-section">
+			<div class="logo-nav logo-nav-desktop nav-item"><a href="/"><img   alt="Alton Brown Logo on one line in white font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-horizontal-2.png?lossy=1&strip=1&webp=1" class="lazyloaded lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-horizontal-2.png?lossy=1&strip=1&webp=1" class="lazyloaded" alt="Alton Brown Logo on one line in white font"></noscript></a></div>
+			<div class="logo-nav logo-nav-mobile nav-item"><a href="/"><img   style="margin-top: 5px;" alt="Alton Brown logo stacked in white font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-stack-2.png?lossy=1&strip=1&webp=1" class="lazyloaded lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/logo-white-stack-2.png?lossy=1&strip=1&webp=1" class="lazyloaded" style="margin-top: 5px;" alt="Alton Brown logo stacked in white font"></noscript></a></div>
+		</div>
+		<div class="nav-right nav-item nav-section">
+			<div class="nav-right-flip">
+		<a href="/products"><div class="shop-nav nav-item">SHOP</div></a>
+		<div class="search-nav nav-item"><img   alt="Magnifying glass search icon" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Search.png?lossy=1&strip=1&webp=1" class="lazyloaded lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Search.png?lossy=1&strip=1&webp=1" class="lazyloaded" alt="Magnifying glass search icon"></noscript></div>
+			</div>
+		</div>
+	</div>
+	<img  style="height:10px;position:absolute;left:0;bottom:-7px;width:100%;"  alt="Baseboard page divider" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1" class="baseboard lazyloaded lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="baseboard lazyloaded" style="height:10px;position:absolute;left:0;bottom:-7px;width:100%;" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1" alt="Baseboard page divider"></noscript>
+</div>
+
+<div id="search-popup" class="search-show">
+	<div id="search-inner">
+	<div id="search-header">
+		<img  alt="Alton Brown logo in grey font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Alton-Brown-Logo-1-1.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Alton-Brown-Logo-1-1.png?lossy=1&strip=1&webp=1" alt="Alton Brown logo in grey font"></noscript>
+		<div id="search-close"><img  alt="Black x" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Hamburger-Icon.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Hamburger-Icon.png?lossy=1&strip=1&webp=1" alt="Black x" /></noscript></div>
+	</div>
+	<h1>SEARCH</h1>
+	<style type="text/css">				#is-ajax-search-result-44 .is-ajax-search-post,                        
+	            #is-ajax-search-result-44 .is-show-more-results,
+	            #is-ajax-search-details-44 .mCSB_container > div {
+					background-color: #f9f6ec !important;
+				}
+            				#is-ajax-search-result-44 .is-ajax-search-post:hover,
+	            #is-ajax-search-result-44 .is-show-more-results:hover,
+	            #is-ajax-search-details-44 .is-ajax-search-tags-details > div:hover,
+	            #is-ajax-search-details-44 .is-ajax-search-categories-details > div:hover {
+					background-color: #fbe587 !important;
+				}
+                                        #is-ajax-search-result-44 .is-ajax-term-label,
+                #is-ajax-search-details-44 .is-ajax-term-label,
+				#is-ajax-search-result-44,
+                #is-ajax-search-details-44 {
+					color: #000000 !important;
+				}
+                        				#is-ajax-search-result-44 a,
+                #is-ajax-search-details-44 a:not(.button) {
+					color: #000000 !important;
+				}
+                #is-ajax-search-details-44 .is-ajax-woocommerce-actions a.button {
+                	background-color: #000000 !important;
+                }
+                        			.is-form-id-44 .is-search-input::-webkit-input-placeholder {
+			    color: #000000 !important;
+			}
+			.is-form-id-44 .is-search-input:-moz-placeholder {
+			    color: #000000 !important;
+			    opacity: 1;
+			}
+			.is-form-id-44 .is-search-input::-moz-placeholder {
+			    color: #000000 !important;
+			    opacity: 1;
+			}
+			.is-form-id-44 .is-search-input:-ms-input-placeholder {
+			    color: #000000 !important;
+			}
+                        			.is-form-style-1.is-form-id-44 .is-search-input:focus,
+			.is-form-style-1.is-form-id-44 .is-search-input:hover,
+			.is-form-style-1.is-form-id-44 .is-search-input,
+			.is-form-style-2.is-form-id-44 .is-search-input:focus,
+			.is-form-style-2.is-form-id-44 .is-search-input:hover,
+			.is-form-style-2.is-form-id-44 .is-search-input,
+			.is-form-style-3.is-form-id-44 .is-search-input:focus,
+			.is-form-style-3.is-form-id-44 .is-search-input:hover,
+			.is-form-style-3.is-form-id-44 .is-search-input,
+			.is-form-id-44 .is-search-input:focus,
+			.is-form-id-44 .is-search-input:hover,
+			.is-form-id-44 .is-search-input {
+                                color: #000000 !important;                                                                background-color: #f9f6ec !important;			}
+                        </style><form data-min-no-for-search="1" data-result-box-max-height="400" data-form-id="44" class="is-search-form is-disable-submit is-form-style is-form-style-2 is-form-id-44 is-ajax-search" action="https://altonbrown.com/" method="get" role="search" ><label for="is-search-input-44"><span class="is-screen-reader-text">Search for:</span><input  type="search" id="is-search-input-44" name="s" value="" class="is-search-input" placeholder="" autocomplete="off" /><span class="is-loader-image" style="display: none;background-image:url(https://864720.smushcdn.com/1974081/wp-content/plugins/add-search-to-menu-premium/public/images/spinner.gif?lossy=1&strip=1&webp=1);" ></span></label><input type="hidden" name="id" value="44" /></form></div>
+	<img   alt="A rolled up screen projector" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Menu_Screen_Projector-1.png?lossy=1&strip=1&webp=1" class="menu-pull lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="menu-pull" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Menu_Screen_Projector-1.png?lossy=1&strip=1&webp=1" alt="A rolled up screen projector" /></noscript>
+</div>
+
+<div id="menu-popup" class="menu-show">
+	<div id="menu-inner">
+	<div id="menu-header">
+		<img  alt="Alton Brown logo in grey font" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Alton-Brown-Logo-1-1.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Alton-Brown-Logo-1-1.png?lossy=1&strip=1&webp=1" alt="Alton Brown logo in grey font"></noscript>
+		<div id="search-close-menu"><img  alt="Black x" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Hamburger-Icon.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Hamburger-Icon.png?lossy=1&strip=1&webp=1" alt="Black x" /></noscript></div>
+	</div>
+	<div id="menu-cook-container-desktop">
+		<a href="/cook" id="cook-menu-desktop">COOK</a>
+		<div id="cook-category-menu">
+			<a href="/cook?category=appetizers">Appetizers </a><span class="slash">/</span>
+			<a href="/cook?category=breads"> Breads </a><span class="slash">/</span>
+			<a href="/cook?category=breakfast"> Breakfast </a><span class="slash">/</span>
+			<a href="/cook?category=drinks"> Drinks </a><span class="slash">/</span>
+			<a href="/cook?category=mains"> Mains </a><span class="slash">/</span>
+			<a href="/cook?category=pantry"> Pantry </a><span class="slash">/</span>	
+			<a href="/cook?category=sides-salads"> Sides & Salads </a><span class="slash">/</span>			
+			<a href="/cook?category=soups-sandwiches"> Soups & Sandwiches </a><span class="slash">/</span>
+			<a href="/cook?category=sweets"> Sweets</a>
+		</div>
+	</div>
+		
+<div id="menu-cook-container-mobile">
+		<h1 id="cook-menu-popup-mobile">COOK</h1>
+		<div id="cook-category-menu-mobile">
+			<a href="/cook?category=appetizers">Appetizers </a><span class="slash">/</span>
+			<a href="/cook?category=breads"> Breads </a><span class="slash">/</span>
+			<a href="/cook?category=breakfast"> Breakfast </a><span class="slash">/</span>
+			<a href="/cook?category=drinks"> Drinks </a><span class="slash">/</span>
+			<a href="/cook?category=mains"> Mains </a><span class="slash">/</span>
+			<a href="/cook?category=pantry"> Pantry </a><span class="slash">/</span>	
+			<a href="/cook?category=sides-salads"> Sides & Salads </a><span class="slash">/</span>			
+			<a href="/cook?category=soups-sandwiches"> Soups & Sandwiches </a><span class="slash">/</span>
+			<a href="/cook?category=sweets"> Sweets</a>
+		</div>
+	</div>
+		<div id="popup-main-menu">
+			
+			<li><a href="https://altonbrown.com/products/" title="SHOP">SHOP</a></li><li><a href="https://altonbrown.com/oh-bother-blog/" title="BLOG">BLOG</a></li><li><a href="https://altonbrown.com/altons-favorite-things/" title="MY FAVORITE THINGS">MY FAVORITE THINGS</a></li><li><a href="https://altonbrown.com/2021-tour/" title="'21 Tour">'21 Tour</a></li><li><a href="https://altonbrown.com/videos/" title="VIDEOS">VIDEOS</a></li><li><a href="https://altonbrown.com/about/" title="ABOUT">ABOUT</a></li><li><a href="https://altonbrown.com/contact/" title="CONTACT">CONTACT</a></li>			
+		</div>
+		<div class="popup-social">
+			<a href="https://www.youtube.com/channel/UCfDNi1aEljAQ17mUrfUjkvg" target="_blank"><img  alt="Black Youtube logo" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/youtube-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/youtube-2.png?lossy=1&strip=1&webp=1" alt="Black Youtube logo"></noscript></a>
+			<a href="https://www.instagram.com/altonbrown/?hl=en" target="_blank"><img  alt="Black Instagram logo" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/IG-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/IG-2.png?lossy=1&strip=1&webp=1" alt="Black Instagram logo"></noscript></a>
+			<a href="https://www.facebook.com/altonbrown/" target="_blank"><img  alt="Black Facebook logo" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Facebook-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Facebook-2.png?lossy=1&strip=1&webp=1" alt="Black Facebook logo"></noscript></a>
+			<a href="https://twitter.com/altonbrown?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><img  alt="Black Twitter logo" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Twitter-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Twitter-2.png?lossy=1&strip=1&webp=1" alt="Black Twitter logo"></noscript></a>
+			<a href="https://open.spotify.com/album/2uGVDvaemJ6krBGVgKB9VU" target="_blank"><img  alt="Black Spotify logo" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Vector-2.png?lossy=1&strip=1&webp=1" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Vector-2.png?lossy=1&strip=1&webp=1" alt="Black Spotify logo"></noscript></a>
+		</div>
+</div>
+	<img   alt="A rolled up screen projector" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Menu_Screen_Projector-1.png?lossy=1&strip=1&webp=1" class="menu-pull lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="menu-pull" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/Menu_Screen_Projector-1.png?lossy=1&strip=1&webp=1" alt="A rolled up screen projector" /></noscript>
+</div>
+
+<div class="site-inner">
+<div class="post-meta">Alton Brown's tropical twist on a classic cocktail, the Miami mule is a refreshing mix of vodka, blood orange juice, and grapefruit bitters.</div>
+    <div class="wprm-recipe wprm-recipe-snippet wprm-recipe-template-snippet-basic"><a href="#recipe" data-recipe="5520" style="color: #333333;" class="wprm-recipe-jump wprm-recipe-link wprm-jump-to-recipe-shortcode wprm-block-text-normal">Jump to Recipe</a> - <a href="https://altonbrown.com/wprm_print/recipe/5520" style="color: #333333;" class="wprm-recipe-print wprm-recipe-link wprm-print-recipe-shortcode wprm-block-text-normal" data-recipe-id="5520" target="_blank" rel="nofollow">Print Recipe</a></div><p>&nbsp;</p>
+<div id="recipe"></div><div id="wprm-recipe-container-5520" class="wprm-recipe-container" data-recipe-id="5520" data-servings="1"><div class="wprm-recipe wprm-recipe-template-ab-recipe-template"><div class="wprm-recipe-template-ab-recipe-template-main">
+
+    <div class="wprm-recipe-template-ab-recipe-template-left">
+    <div class="left-top-section">
+    <div class="wprm-recipe-meta-container wprm-recipe-tags-container wprm-recipe-details-container wprm-recipe-details-container-inline wprm-block-text-uppercase" style=""><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-uppercase wprm-recipe-tag-container wprm-recipe-course-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase-faded wprm-recipe-tag-label wprm-recipe-course-label">Course: </span><span class="wprm-recipe-course wprm-block-text-uppercase">Drinks</span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-uppercase wprm-recipe-tag-container wprm-recipe-keyword-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase-faded wprm-recipe-tag-label wprm-recipe-keyword-label">Keyword: </span><span class="wprm-recipe-keyword wprm-block-text-uppercase">Cocktails, Entertaining, Miami Mule, Miami Mule Recipe, Summer, Vodka</span></div></div>
+<style>.wprm-recipe-rating .wprm-rating-star.wprm-rating-star-full svg * { fill: #343434; }</style><div class="wprm-recipe-rating wprm-user-rating wprm-user-rating-allowed" data-recipe="5520" data-average="5" data-count="2" data-total="10" data-user="0" data-decimals="2"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 1 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 2 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 3 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 4 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 5 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span></div>
+    <h2 class="wprm-recipe-name wprm-block-text-uppercase">Miami Mule</h2>
+    <div class="recipe-right-mobile">
+    <div class="recipe-right-intro">
+    	<div class="wprm-recipe-image wprm-block-image-normal"><img style="border-width: 0px;border-style: solid;border-color: #666666;" width="717" height="554"   alt="Alton Brown&#039;s Miami Mule Recipe" data-srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&amp;strip=1&amp;webp=1 717w, https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule-300x232.jpg?lossy=1&amp;strip=1&amp;webp=1 300w"  data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&strip=1&webp=1" data-sizes="(max-width: 717px) 100vw, 717px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img style="border-width: 0px;border-style: solid;border-color: #666666;" width="717" height="554" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&strip=1&webp=1" class="attachment-large size-large" alt="Alton Brown&#039;s Miami Mule Recipe" srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&amp;strip=1&amp;webp=1 717w, https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule-300x232.jpg?lossy=1&amp;strip=1&amp;webp=1 300w" sizes="(max-width: 717px) 100vw, 717px" /></noscript></div>
+        </div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-normal wprm-recipe-time-container wprm-recipe-prep-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase-faded wprm-recipe-time-label wprm-recipe-prep-time-label">ACTIVE TIME: </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-normal wprm-recipe-time-container wprm-recipe-total-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase-faded wprm-recipe-time-label wprm-recipe-total-time-label">TOTAL TIME: </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-uppercase wprm-recipe-servings-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase-faded wprm-recipe-servings-label">Yield: </span><span class="wprm-recipe-servings-with-unit"><span class="wprm-recipe-servings wprm-recipe-details wprm-recipe-servings-5520 wprm-recipe-servings-adjustable-disabled wprm-block-text-uppercase" data-recipe="5520" aria-label="Adjust recipe servings">1</span> <span class="wprm-recipe-servings-unit wprm-recipe-details-unit wprm-block-text-uppercase">(8-ounce) cocktail</span></span></div>
+        </div>
+    <div class="wprm-recipe-summary wprm-block-text-normal"><span style="display: block;">So, obviously a tropical take on a classic Moscow Mule. Not that anything’s wrong with just vodka and ginger beer. But this version allows me to use grapefruit bitters, which are some of my very favorite bitters, period.</span><div class="wprm-spacer"></div><span style="display: block;">This recipe first appeared on altonbrown.com. </span></div> <div class="read-more">Read More</div><div class="read-less">Read Less</div>
+    <div class="print-social-container">
+    <a href="https://altonbrown.com/wprm_print/recipe/5520" style="color: #000000;background-color: #fbe587;border-color: #000000;border-radius: 0px;padding: 5px 12px;" class="wprm-recipe-print wprm-recipe-link wprm-print-recipe-shortcode wprm-block-text-normal wprm-recipe-print-button wprm-recipe-link-button wprm-color-accent" data-recipe-id="5520" target="_blank" rel="nofollow">Print Recipe</a>
+
+<div class="wprm-recipe-template-ab-recipe-template-social-bar">
+<a href="" class="fb-share"><div class="wprm-icon-shortcode wprm-icon-shortcode-inline" style="font-size: 20px;height: 20px;"><span class="wprm-recipe-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="#c3d7d8"><path fill="#c3d7d8" d="M22,0H2C0.895,0,0,0.895,0,2v20c0,1.105,0.895,2,2,2h11v-9h-3v-4h3V8.413c0-3.1,1.893-4.788,4.659-4.788 c1.325,0,2.463,0.099,2.795,0.143v3.24l-1.918,0.001c-1.504,0-1.795,0.715-1.795,1.763V11h4.44l-1,4h-3.44v9H22c1.105,0,2-0.895,2-2 V2C24,0.895,23.105,0,22,0z"></path></g></svg></span> </div></a>
+<a href="" class="pinterest-share"><div class="wprm-icon-shortcode wprm-icon-shortcode-inline" style="font-size: 20px;height: 20px;"><span class="wprm-recipe-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="#c3d7d8"><path fill="#c3d7d8" d="M12,0C5.4,0,0,5.4,0,12c0,5.1,3.2,9.4,7.6,11.2c-0.1-0.9-0.2-2.4,0-3.4c0.2-0.9,1.4-6,1.4-6S8.7,13,8.7,12 c0-1.7,1-2.9,2.2-2.9c1,0,1.5,0.8,1.5,1.7c0,1-0.7,2.6-1,4c-0.3,1.2,0.6,2.2,1.8,2.2c2.1,0,3.8-2.2,3.8-5.5c0-2.9-2.1-4.9-5-4.9 c-3.4,0-5.4,2.6-5.4,5.2c0,1,0.4,2.1,0.9,2.7c0.1,0.1,0.1,0.2,0.1,0.3c-0.1,0.4-0.3,1.2-0.3,1.4c-0.1,0.2-0.2,0.3-0.4,0.2 c-1.5-0.7-2.4-2.9-2.4-4.6c0-3.8,2.8-7.3,7.9-7.3c4.2,0,7.4,3,7.4,6.9c0,4.1-2.6,7.5-6.2,7.5c-1.2,0-2.4-0.6-2.8-1.4 c0,0-0.6,2.3-0.7,2.9c-0.3,1-1,2.3-1.5,3.1C9.6,23.8,10.8,24,12,24c6.6,0,12-5.4,12-12C24,5.4,18.6,0,12,0z"></path></g></svg></span> </div></a>
+<a href="" class="twitter-share"><div class="wprm-icon-shortcode wprm-icon-shortcode-inline" style="font-size: 20px;height: 20px;"><span class="wprm-recipe-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="#c3d7d8"><path fill="#c3d7d8" d="M24,4.6c-0.9,0.4-1.8,0.7-2.8,0.8c1-0.6,1.8-1.6,2.2-2.7c-1,0.6-2,1-3.1,1.2c-0.9-1-2.2-1.6-3.6-1.6 c-2.7,0-4.9,2.2-4.9,4.9c0,0.4,0,0.8,0.1,1.1C7.7,8.1,4.1,6.1,1.7,3.1C1.2,3.9,1,4.7,1,5.6c0,1.7,0.9,3.2,2.2,4.1 C2.4,9.7,1.6,9.5,1,9.1c0,0,0,0,0,0.1c0,2.4,1.7,4.4,3.9,4.8c-0.4,0.1-0.8,0.2-1.3,0.2c-0.3,0-0.6,0-0.9-0.1c0.6,2,2.4,3.4,4.6,3.4 c-1.7,1.3-3.8,2.1-6.1,2.1c-0.4,0-0.8,0-1.2-0.1c2.2,1.4,4.8,2.2,7.5,2.2c9.1,0,14-7.5,14-14c0-0.2,0-0.4,0-0.6 C22.5,6.4,23.3,5.5,24,4.6z"></path></g></svg></span> </div></a>
+<a href="" class="insta-share"></a>
+<a href="" class="email-share"><div class="wprm-icon-shortcode wprm-icon-shortcode-inline" style="font-size: 20px;height: 20px;"><span class="wprm-recipe-icon" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><g class="nc-icon-wrapper" fill="#c3d7d8"><path d="M21,2H3A3,3,0,0,0,0,5V19a3,3,0,0,0,3,3H21a3,3,0,0,0,3-3V5A3,3,0,0,0,21,2ZM8.207,15.207l-2.5,2.5a1,1,0,0,1-1.414-1.414l2.5-2.5Zm11.5,2.5a1,1,0,0,1-1.414,0l-2.5-2.5,1.414-1.414,2.5,2.5A1,1,0,0,1,19.707,17.707Zm0-10-7,7a1,1,0,0,1-1.414,0l-7-7A1,1,0,0,1,5.707,6.293L12,12.586l6.293-6.293a1,1,0,1,1,1.414,1.414Z" fill="#c3d7d8"></path></g></svg></span> </div></a>
+</div>
+</div>
+</div>
+
+    <div class="wprm-unit-conversion-container wprm-unit-conversion-container-5520 wprm-unit-conversion-container-buttons wprm-block-text-bold" style="background-color: #ffffff;border-color: #333333;color: #333333;border-radius: 0px;"><button href="#" class="wprm-unit-conversion wprmpuc-active" data-system="1" data-recipe="5520" style="background-color: #333333;color: #ffffff;" aria-label="Change unit system to U.S. Standard">U.S. Standard</button><button href="#" class="wprm-unit-conversion" data-system="2" data-recipe="5520" style="background-color: #333333;color: #ffffff;border-left: 1px solid #333333;" aria-label="Change unit system to Metric">Metric</button></div>
+    <div class="ab-ingredients">
+    <div class="wprm-recipe-ingredients-container wprm-recipe-5520-ingredients-container wprm-block-text-normal wprm-ingredient-style-regular" data-recipe="5520" data-servings="1"><h3 class="wprm-recipe-header wprm-recipe-ingredients-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Software</h3><div class="wprm-recipe-ingredient-group"><ul class="wprm-recipe-ingredients"><li class="wprm-recipe-ingredient" style="list-style-type: none;"><span class="wprm-recipe-ingredient-amount">2</span>&#32;<span class="wprm-recipe-ingredient-unit">fluid ounces</span>&#32;<span class="wprm-recipe-ingredient-name">vodka</span></li><li class="wprm-recipe-ingredient" style="list-style-type: none;"><span class="wprm-recipe-ingredient-amount">1/2</span>&#32;<span class="wprm-recipe-ingredient-unit">fluid ounce</span>&#32;<span class="wprm-recipe-ingredient-name">freshly squeezed lemon juice</span></li><li class="wprm-recipe-ingredient" style="list-style-type: none;"><span class="wprm-recipe-ingredient-amount">1/2</span>&#32;<span class="wprm-recipe-ingredient-unit">fluid ounce</span>&#32;<span class="wprm-recipe-ingredient-name">blood orange juice</span></li><li class="wprm-recipe-ingredient" style="list-style-type: none;"><span class="wprm-recipe-ingredient-amount">6</span>&#32;<span class="wprm-recipe-ingredient-unit">fluid ounces</span>&#32;<span class="wprm-recipe-ingredient-name">ginger beer, not ale</span></li><li class="wprm-recipe-ingredient" style="list-style-type: none;"><span class="wprm-recipe-ingredient-amount">4</span>&#32;<span class="wprm-recipe-ingredient-unit">dashes</span>&#32;<span class="wprm-recipe-ingredient-name">grapefruit bitters</span></li></ul></div></div>
+    
+    </div>
+
+    </div>
+    
+    <div class="wprm-recipe-template-ab-recipe-template-right">
+    <div class="recipe-right-desktop">
+    <div class="recipe-right-intro">
+    	<div class="wprm-recipe-image wprm-block-image-normal"><img style="border-width: 0px;border-style: solid;border-color: #666666;" width="717" height="554"   alt="Alton Brown&#039;s Miami Mule Recipe" data-srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&amp;strip=1&amp;webp=1 717w, https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule-300x232.jpg?lossy=1&amp;strip=1&amp;webp=1 300w"  data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&strip=1&webp=1" data-sizes="(max-width: 717px) 100vw, 717px" class="attachment-large size-large lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img style="border-width: 0px;border-style: solid;border-color: #666666;" width="717" height="554" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&strip=1&webp=1" class="attachment-large size-large" alt="Alton Brown&#039;s Miami Mule Recipe" srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg?lossy=1&amp;strip=1&amp;webp=1 717w, https://864720.smushcdn.com/1974081/wp-content/uploads/2016/03/alton-brown-miami-mule-300x232.jpg?lossy=1&amp;strip=1&amp;webp=1 300w" sizes="(max-width: 717px) 100vw, 717px" /></noscript></div>
+        </div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-normal wprm-recipe-time-container wprm-recipe-prep-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase wprm-recipe-time-label wprm-recipe-prep-time-label">ACTIVE TIME: </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-normal wprm-recipe-time-container wprm-recipe-total-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase wprm-recipe-time-label wprm-recipe-total-time-label">TOTAL TIME: </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-inline wprm-block-text-uppercase wprm-recipe-servings-container" style=""><span class="wprm-recipe-details-label wprm-block-text-uppercase wprm-recipe-servings-label">Yield: </span><span class="wprm-recipe-servings-with-unit"><span class="wprm-recipe-servings wprm-recipe-details wprm-recipe-servings-5520 wprm-recipe-servings-adjustable-disabled wprm-block-text-uppercase" data-recipe="5520" aria-label="Adjust recipe servings">1</span> <span class="wprm-recipe-servings-unit wprm-recipe-details-unit wprm-block-text-uppercase">(8-ounce) cocktail</span></span></div>
+        </div>
+        <style type="text/css">ul.wprm-advanced-list-8927 li:before {background-color: #ffffff;color: #000000;width: 18px;height: 18px;font-size: 12px;line-height: 12px;}</style><div class="wprm-recipe-instructions-container wprm-recipe-5520-instructions-container wprm-block-text-normal" data-recipe="5520"><h3 class="wprm-recipe-header wprm-recipe-instructions-header wprm-block-text-uppercase wprm-align-left wprm-header-decoration-none" style="">Procedure</h3><div class="wprm-recipe-instruction-group"><ul class="wprm-advanced-list wprm-advanced-list-reset wprm-advanced-list-8927 wprm-recipe-instructions"><li id="wprm-recipe-5520-step-0-0" class="wprm-recipe-instruction" style="list-style-type: none;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 15px"><span style="display: block;">Fill a highball or Collins glass with ice. Pour in the vodka, lemon juice, and blood orange juice. Top with the ginger beer and grapefruit bitters. Serve with a swizzle stick.</div></li></ul></div></div>
+    </div>
+</div>
+<div style="height: 4em; width: 100%; position: relative; z-index: 100;"></div></div></div>
+
+
+<script>
+$(document).ready(function(){
+	setTimeout(function(){
+		var printBtn = document.querySelectorAll('.wprm-recipe-link-button');
+		printBtn[0].removeAttribute('rel');
+		var time = $('.wprm-recipe-total-time-container .wprm-recipe-time .wprm-recipe-details');
+		var timeArr = Array.prototype.slice.call(time);
+		if(time.length > 2){
+			for(i=0;i<timeArr.length;i++){
+				if(i !== (timeArr.length / 2) && i !== 0){
+				var span = document.createElement('span');
+				span.innerHTML = '& ';
+				span.classList.add('time-separator');
+				timeArr[i].parentNode.insertBefore(span, timeArr[i]);
+				console.log(timeArr[i]);
+				}
+			}
+		} else {
+			
+		}
+	},300);
+});
+	
+var fb = $('.fb-share')[0];
+var pinterest = $('.pinterest-share')[0];
+var twitter = $('.twitter-share')[0];
+var email = $('.email-share')[0];
+	
+fb.href = "https://www.facebook.com/sharer/sharer.php?u=https://altonbrown.com/recipes/miami-mule/";
+fb.setAttribute('target','_blank');
+	
+pinterest.href = "http://pinterest.com/pin/create/button/?url=&media=https://altonbrown.com/wp-content/uploads/2016/03/alton-brown-miami-mule.jpg&description=Miami Mule";
+pinterest.setAttribute('count-layout','horizontal');
+pinterest.setAttribute('target','_blank');
+	
+twitter.href = "https://twitter.com/intent/tweet?text=Miami Mule%20https://altonbrown.com/recipes/miami-mule/";
+twitter.setAttribute('target','_blank');
+	
+email.href = "mailto:?&subject=&body=https://altonbrown.com/recipes/miami-mule/";
+
+var readMore = document.querySelector('.read-more');
+var readLess = document.querySelector('.read-less');
+var desc = document.querySelector('.wprm-recipe-summary.wprm-block-text-normal');
+	
+var summary = $('.wprm-recipe-summary');
+if(summary.length === 0 || summary[0].offsetHeight <= 150){
+	readMore.style.display = 'none';
+	readLess.style.display = 'none';
+} else {
+	window.addEventListener('load',function(){
+		desc.classList.add('desc-cutoff');
+	});
+
+	readMore.addEventListener('click',function(){
+		readMore.style.display = 'none';
+		readLess.style.display = 'block';
+		desc.style.maxHeight = '1000px';
+	});
+
+	readLess.addEventListener('click',function(){
+		readLess.style.display = 'none';
+		readMore.style.display = 'block';
+		desc.style.maxHeight = '150px';
+	});
+}
+	
+var recipeLeft = $('.wprm-recipe-template-ab-recipe-template-left')[0];
+var recipeRight = $('.wprm-recipe-template-ab-recipe-template-right')[0];
+	
+
+
+function recipeScroll(){
+	var recipeLeft = $('.wprm-recipe-template-ab-recipe-template-left')[0];
+	var recipeRight = $('.wprm-recipe-template-ab-recipe-template-right')[0];
+	recipeRight.style.minHeight = recipeLeft.offsetHeight + 'px';
+	
+	var containerHeight = $('.wprm-recipe-container')[0];
+	var distanceFromBottom = $(document).height() - $(window).height() - $(document).scrollTop();
+		if(distanceFromBottom > 820){
+			recipeLeft.style.top = '95px';
+			recipeLeft.style.position = 'fixed';
+		} else if(distanceFromBottom <= 820) {
+			recipeLeft.style.top = 'auto';
+			recipeLeft.style.position = 'absolute';
+			recipeLeft.style.bottom = '4%';
+		}
+}
+	
+function recipeScrollMobile(){
+	var recipeLeft = $('.wprm-recipe-template-ab-recipe-template-left')[0];
+	var recipeRight = $('.wprm-recipe-template-ab-recipe-template-right')[0];
+	recipeLeft.style.position = 'relative';
+	recipeLeft.style.top = '0px';
+	recipeRight.style.minHeight = 'none';
+};
+	
+setTimeout(function(){
+	if($(window).width() > 991) {
+	recipeScroll();
+} else {
+	recipeScrollMobile();
+}
+	
+$(window).resize(function(){
+	if($(window).width() > 991) {
+		recipeScroll();
+	} else {
+		recipeScrollMobile();
+	}
+});
+	
+$(window).scroll(function(){
+	if($(window).width() > 991) {
+		recipeScroll();
+	} else {
+		recipeScrollMobile();
+	}
+});
+},300);	
+
+
+</script>
+
+</div><img   alt="Baseboard page divider" data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1" class="related-baseboard lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="related-baseboard" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1" alt="Baseboard page divider"></noscript>
+<div id="related-recipes">
+	<div class="site-inner">
+		<h3>RELATED RECIPES</h3>
+				
+						<div class="related-recipe-item">
+							<a href="https://altonbrown.com/recipes/how-to-make-a-daiquiri/"><img width="1380" height="1380"   alt="Alton Brown&#039;s cocktail glasses displayed outdoors on a black end table." data-srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized.jpg?lossy=1&amp;strip=1&amp;webp=1 1380w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-300x300.jpg?lossy=1&amp;strip=1&amp;webp=1 300w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-1024x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-150x150.jpg?lossy=1&amp;strip=1&amp;webp=1 150w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-768x768.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-500x500.jpg?lossy=1&amp;strip=1&amp;webp=1 500w"  data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized.jpg?lossy=1&strip=1&webp=1" data-sizes="(max-width: 1380px) 100vw, 1380px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1380" height="1380" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized.jpg?lossy=1&strip=1&webp=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Alton Brown&#039;s cocktail glasses displayed outdoors on a black end table." srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized.jpg?lossy=1&amp;strip=1&amp;webp=1 1380w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-300x300.jpg?lossy=1&amp;strip=1&amp;webp=1 300w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-1024x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-150x150.jpg?lossy=1&amp;strip=1&amp;webp=1 150w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-768x768.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Drinks_Coming-Soon-Photo_resized-500x500.jpg?lossy=1&amp;strip=1&amp;webp=1 500w" sizes="(max-width: 1380px) 100vw, 1380px" /></noscript></a>
+								 <div class="related-recipe-item-detail">
+									 <p>Drinks</p>
+									 <a href="https://altonbrown.com/recipes/how-to-make-a-daiquiri/"><h4>Daiquiri</h4></a>
+							</div>
+		</div>
+		
+							
+						<div class="related-recipe-item">
+							<a href="https://altonbrown.com/recipes/alton-browns-favorite-martini/"><img width="1707" height="2560"   alt="Alton Brown&#039;s classic martini in a martini glass with a green olive." data-srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-scaled.jpg?lossy=1&amp;strip=1&amp;webp=1 1707w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-200x300.jpg?lossy=1&amp;strip=1&amp;webp=1 200w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-683x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 683w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-768x1152.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-1024x1536.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-1365x2048.jpg?lossy=1&amp;strip=1&amp;webp=1 1365w"  data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-scaled.jpg?lossy=1&strip=1&webp=1" data-sizes="(max-width: 1707px) 100vw, 1707px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1707" height="2560" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-scaled.jpg?lossy=1&strip=1&webp=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Alton Brown&#039;s classic martini in a martini glass with a green olive." srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-scaled.jpg?lossy=1&amp;strip=1&amp;webp=1 1707w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-200x300.jpg?lossy=1&amp;strip=1&amp;webp=1 200w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-683x1024.jpg?lossy=1&amp;strip=1&amp;webp=1 683w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-768x1152.jpg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-1024x1536.jpg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2012/10/alton-brown-martini2-1365x2048.jpg?lossy=1&amp;strip=1&amp;webp=1 1365w" sizes="(max-width: 1707px) 100vw, 1707px" /></noscript></a>
+								 <div class="related-recipe-item-detail">
+									 <p>Drinks</p>
+									 <a href="https://altonbrown.com/recipes/alton-browns-favorite-martini/"><h4>AB&#8217;s Martini</h4></a>
+							</div>
+		</div>
+		
+							
+						<div class="related-recipe-item">
+							<a href="https://altonbrown.com/recipes/fresh-cranberry-cosmo/"><img width="2560" height="1920"   alt="" data-srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-scaled.jpeg?lossy=1&amp;strip=1&amp;webp=1 2560w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-300x225.jpeg?lossy=1&amp;strip=1&amp;webp=1 300w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-1024x768.jpeg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-768x576.jpeg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-1536x1152.jpeg?lossy=1&amp;strip=1&amp;webp=1 1536w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-2048x1536.jpeg?lossy=1&amp;strip=1&amp;webp=1 2048w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-500x375.jpeg?lossy=1&amp;strip=1&amp;webp=1 500w"  data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-scaled.jpeg?lossy=1&strip=1&webp=1" data-sizes="(max-width: 2560px) 100vw, 2560px" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="2560" height="1920" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-scaled.jpeg?lossy=1&strip=1&webp=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-scaled.jpeg?lossy=1&amp;strip=1&amp;webp=1 2560w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-300x225.jpeg?lossy=1&amp;strip=1&amp;webp=1 300w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-1024x768.jpeg?lossy=1&amp;strip=1&amp;webp=1 1024w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-768x576.jpeg?lossy=1&amp;strip=1&amp;webp=1 768w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-1536x1152.jpeg?lossy=1&amp;strip=1&amp;webp=1 1536w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-2048x1536.jpeg?lossy=1&amp;strip=1&amp;webp=1 2048w, https://864720.smushcdn.com/1974081/wp-content/uploads/2020/08/Fresh-Cranberry-Cosmo-500x375.jpeg?lossy=1&amp;strip=1&amp;webp=1 500w" sizes="(max-width: 2560px) 100vw, 2560px" /></noscript></a>
+								 <div class="related-recipe-item-detail">
+									 <p>Drinks</p>
+									 <a href="https://altonbrown.com/recipes/fresh-cranberry-cosmo/"><h4>Fresh Cranberry Cosmo</h4></a>
+							</div>
+		</div>
+		
+					</div>
+</div>
+<div class="footer" id="footer">
+<img   data-src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1" class="related-baseboard lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="related-baseboard" src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/07/AB_baseboard-divider.png?lossy=1&strip=1&webp=1"></noscript>
+	<div class="footer-inner">
+	<h3>GET UPDATES</h3>
+		<div class="footer-left footer-left-desktop footer-column">
+			<ul>
+			<li><a href="https://altonbrown.com/" title="Home">Home</a></li><li><a href="https://altonbrown.com/cook/" title="Cook">Cook</a></li><li><a href="https://altonbrown.com/products/" title="Shop">Shop</a></li><li><a href="https://altonbrown.com/oh-bother-blog/" title="Blog">Blog</a></li><li><a href="https://altonbrown.com/news/" title="News">News</a></li><li><a href="https://altonbrown.com/videos/" title="Videos">Videos</a></li><li><a href="https://altonbrown.com/about/" title="About">About</a></li><li><a href="https://altonbrown.com/contact/" title="Contact">Contact</a></li>			</ul>
+		</div>
+
+		<div class="footer-center footer-column footer-group-desktop">
+			<!--JB Tracker--> <script type="text/javascript"> var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push(['clientToken', 'P%2bsIjEMd6oQ%3d']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://prod.benchmarkemail.com/tracker.bundle.js'; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})(); </script> <!--/JB Tracker--> <!-- BEGIN: Signup Form Popup Code from Benchmark Email Ver 4.0  -->
+<style type="text/css">
+ .formbox-editor_EDEHH fieldset {border: none;margin: 0;padding: 0 20px;position: relative;display:inline-block;}
+ .formbox-editor_EDEHH fieldset > input,.formbox-editor_EDEHH fieldset > textarea,.formbox-editable-field_EDEHH {margin: 0px 0;outline: none;}
+ .spacer-block_EDEHH {min-height: 20px;padding: 10px 0;position: relative;}
+ .spacer-block-line_EDEHH {position: absolute;top: 50%;left: 40px;right: 40px;display: none;border-top-style: solid;}
+ .formbox-editor_EDEHH {margin: 0 auto;padding: 0;text-align: left;width: 100%;box-sizing: border-box;}
+ #formbox_screen_subscribe_EDEHH, #formbox_screen_success_EDEHH {padding: 30px 0;} 
+ .formbox-title_EDEHH, .formbox-text-field_EDEHH {margin-bottom: 0; font-family: WindsorBTWXX-Roman, sans-serif; color: #000000; font-size: 18px; }
+ .formbox-title_EDEHH a, .formbox-text-field_EDEHH a  {text-decoration: none;} 
+ .formbox-title_EDEHH p, .formbox-text-field_EDEHH p {margin: 0;margin-bottom: 10px;padding: 0; word-break: break-word;}
+
+ label.formbox-field-label_EDEHH {font-family: WindsorBTWXX-Roman, sans-serif; display: block; margin: 0 0 0; padding: 0; font-size: 18px; text-align: left;line-height: 100%; color: #000000;}
+ label.formbox-label-wrap_EDEHH {font-family: WindsorBTWXX-Roman, sans-serif; display: block; margin: 0 0 0; padding: 0; font-size: 18px; line-height: 100%; padding-left: 15px; text-indent: -15px; font-style: italic;color: #000000;} label.formbox-label-wrap_EDEHH:last-of-type {margin-bottom: 10px;}
+ label.formbox-label-wrap_EDEHH input[type=checkbox], label.formbox-label-wrap_EDEHH input[type=radio] { width: 13px; height: 13px; padding: 0; margin:0; margin-right: 5px; vertical-align: bottom; position: relative; top: -1px; }
+ select.formbox-field_EDEHH {background-color: #000000; border: 0px solid #f1f2f2; border-radius: 0px; box-sizing: border-box; background-color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 14px; width: 100%; margin: 10px 0; height: auto; padding: 2px 0px;}
+
+ input.formbox-field_EDEHH {color: #fff; background-color: transparent; border: 0px solid #f1f2f2; border-radius:0px; font-family: schoolbook, sans-serif; font-size: 18px; box-sizing: border-box; padding:15px; width: 100%;} input.formbox-field_EDEHH.text-placeholder {color: #fff; font-weight: normal; font-style: normal; font-family: schoolbook, sans-serif; font-size: 18px;}
+  fieldset.formbox-field_EDEHH {width:60%;}
+ .formbox-field_EDEHH::-webkit-input-placeholder {color: #fff; font-weight: normal; font-style: normal;opacity: 1;}
+ .formbox-field_EDEHH::-moz-placeholder { color: #fff; font-weight: normal; font-style: normal;opacity: 1;}
+ .formbox-field_EDEHH:-ms-input-placeholder {color: #fff; font-weight: normal; font-style: normal; opacity: 1;}
+ .formbox-button_EDEHH {line-height: 100%;  cursor: pointer; margin: 10px 0; }
+ .formbox-button_EDEHH:hover { background-color:#d4e8e9 !important; }
+ .formbox-button_EDEHH:active { background-color:#acc0c1 !important; }
+#popupFormLoader_EDEHH { display: none; position: absolute; bottom: 10px; right: 10px; width: 20px; height: 20px; background-image: url(https://benchmarkemail.com/images/popup-builder/loadingicon.svg); background-position: center center; background-repeat: no-repeat; background-color: rgb(255, 255, 255); background-color: rgba(255, 255, 255, 0.3);  border-radius: 100%; -webkit-animation-name: spin; -webkit-animation-duration: 800ms; -webkit-animation-iteration-count: infinite; -webkit-animation-timing-function: linear; -moz-animation-name: spin; -moz-animation-duration: 800ms; -moz-animation-iteration-count: infinite; -moz-animation-timing-function: linear;
+-ms-animation-name: spin;-ms-animation-duration: 800ms;-ms-animation-iteration-count: infinite;-ms-animation-timing-function: linear;animation-name: spin;animation-duration: 800ms;animation-iteration-count: infinite;animation-timing-function: linear;}
+	@media screen and (max-width: 1180px){.formbox-editor_EDEHH fieldset{width:100% !important;}}
+</style>
+<div id="signupFormContainer_EDEHH">
+<div id="signupFormContent_EDEHH">
+<div class="formbox-editor_EDEHH" style="background: transparent; 
+border-radius:0px; box-sizing: border-box; top: 0px;"><div id="formbox_screen_subscribe_EDEHH" style="display:block;" name="frmLB_EDEHH">
+<input type=hidden name=token_EDEHH id=token_EDEHH value="mFcQnoBFKMS8Guanwjpovhbnm%2BWYYJMGSyb0al38rxCjLxTKzyAa6A%3D%3D" />
+<input type=hidden name=successurl_EDEHH id=successurl_EDEHH value="https://lb.benchmarkemail.com/Code/Welcome" />
+<input type=hidden name=errorurl_EDEHH id=errorurl_EDEHH value="http://lb.benchmarkemail.com//Code/Error" />
+<fieldset class="formbox-field_EDEHH"><input type=text placeholder="ENTER YOUR EMAIL" class="formbox-field_EDEHH text-placeholder" onfocus="javascript:focusPlaceHolder(this);" onblur="javascript:blurPlaceHolder(this);" id="fldemail_EDEHH" name="fldemail_EDEHH" maxlength=100 /></fieldset>
+<fieldset style="text-align:center;"><div id="btnSubmit_EDEHH" onClick="javascript:return submit_EDEHHClick();" style="word-break: break-all; box-sizing: border-box; text-align:center; display: inline-block;width: 100%;padding-left: 20px; padding-right: 20px;padding-top: 20px; padding-bottom: 20px;background-color:rgb(192, 212, 213); border: rgba(0, 0, 0, 0) solid 0px; border-radius: 0;font-family: WindsorBTWXX-Roman, sans-serif; font-size: 18px;color: #210C04; line-height: 1; letter-spacing:1pxpx;" class="formbox-button_EDEHH">Sign Me Up</div></fieldset></div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+function CheckField_EDEHH(fldName, frm){var fldObj = document.getElementsByName(fldName);if ( fldObj.length > 1 ) {  for ( var i = 0, l = fldObj.length; i < l; i++ ) {   if ( fldObj[0].type == 'select-one' ) { if( fldObj[i].selected && i==0 && fldObj[i].value == '' ) { return false; }   if ( fldObj[i].selected ) { return true; } }  else { if ( fldObj[i].checked ) { return true; } }; } return false; }  else  { if ( fldObj[0].type == "checkbox" ) { return ( fldObj[0].checked ); }  else if ( fldObj[0].type == "radio" ) { return ( fldObj[0].checked ); }  else { fldObj[0].focus(); return (fldObj[0].value.length > 0); }} }
+function rmspaces(x) {var leftx = 0;var rightx = x.length -1;while ( x.charAt(leftx) == ' ') { leftx++; }while ( x.charAt(rightx) == ' ') { --rightx; }var q = x.substr(leftx,rightx-leftx + 1);if ( (leftx == x.length) && (rightx == -1) ) { q =''; } return(q); }
+
+function checkfield(data) {if (rmspaces(data) == ""){return false;}else {return true;}}
+
+function isemail(data) {var flag = false;if (  data.indexOf("@",0)  == -1 || data.indexOf("\\",0)  != -1 ||data.indexOf("/",0)  != -1 ||!checkfield(data) ||  data.indexOf(".",0)  == -1  ||  data.indexOf("@")  == 0 ||data.lastIndexOf(".") < data.lastIndexOf("@") ||data.lastIndexOf(".") == (data.length - 1)   ||data.lastIndexOf("@") !=   data.indexOf("@") ||data.indexOf(",",0)  != -1 ||data.indexOf(":",0)  != -1 ||data.indexOf(";",0)  != -1  ) {return flag;} else {var temp = rmspaces(data);if (temp.indexOf(' ',0) != -1) { flag = true; }var d3 = temp.lastIndexOf('.') + 4;var d4 = temp.substring(0,d3);var e2 = temp.length  -  temp.lastIndexOf('.')  - 1;var i1 = temp.indexOf('@');if (  (temp.charAt(i1+1) == '.') || ( e2 < 1 ) ) { flag = true; }return !flag;}}
+
+function focusPlaceHolder(obj) { 
+obj.className = "formbox-field_EDEHH"; }
+function blurPlaceHolder(obj) { 
+if ( obj.value == '' ) { obj.className = "formbox-field_EDEHH text-placeholder"; } } 
+function isValidDate(year, month, day) { 
+if (year.toString() == '' || month.toString() == '' || day.toString() == '') { return false;} try { year = parseInt(year); month = parseInt(month); day = parseInt(day); } catch (e) { return false;} var d = new Date(year, month - 1, day, 0, 0, 0, 0); return (!isNaN(d) && (d.getDate() == day && d.getMonth() + 1 == month && d.getFullYear() == year));}var submitButton_EDEHH = document.getElementById("btnSubmit_EDEHH");
+var subscribeScreen_EDEHH = document.getElementById("formbox_screen_subscribe_EDEHH");
+var signupFormContainer_EDEHH = document.getElementById("signupFormContainer_EDEHH");
+var signupFormLoader_EDEHH = document.getElementById("popupFormLoader_EDEHH");
+function submit_EDEHHClick(){
+ var retVal = true; var contentdata = ""; var frm = document.getElementById("formbox_screen_subscribe_EDEHH");if ( !isemail(document.getElementsByName("fldemail_EDEHH")[0].value) ) { 
+   alert("Please enter the Email Address");
+document.getElementById("fldemail_EDEHH").focus(); retVal = false;} if ( retVal == true ) {var frm = "_EDEHH"; var f = document.createElement("form"); f.setAttribute('accept-charset', "UTF-8");  f.setAttribute('method', "post"); f.setAttribute('action', "https://lb.benchmarkemail.com//code/lbform"); f.setAttribute('target', "_blank"); var elms = document.getElementsByName("frmLB" + frm)[0].getElementsByTagName("*");var ty = ""; for (var ei = 0; ei < elms.length; ei++) {ty = elms[ei].type; if (ty == "hidden" || ty == "text" || (ty == "checkbox" && elms[ei].checked) || (ty == "radio" && elms[ei].checked) || ty == "textarea" || ty == "select-one" || ty == "button") {elm = elms[ei]; if(elm.id != "") { var i = document.createElement("input"); i.type = "hidden"; i.name = elm.name.replace("_EDEHH", ""); i.id = elm.id; i.value = elm.value; f.appendChild(i); } } } document.getElementsByTagName('body')[0].appendChild(f);f.submit(); }
+if(isemail(document.getElementById("fldemail_EDEHH").value) && window && window.JB_TRACKER && typeof window.JB_TRACKER.jbSubmitForm === 'function') { 
+ window.JB_TRACKER.jbSubmitForm({ 
+ email: document.getElementById("fldemail_EDEHH").value, didSubmit: true 
+ }); 
+ }
+
+return retVal;}  var bmePopupFormViewed_EDEHH = localStorage.getItem('bmePopupFormSignedUp1448660'); 
+  if ( bmePopupFormViewed_EDEHH != 'true') {
+  } 
+function debounce_EDEHH(func, wait, immediate) {
+var timeout;
+return function() {
+var context = this, args = arguments;
+var later = function() {timeout = null; if (!immediate) func.apply(context, args); };
+var callNow = immediate && !timeout; clearTimeout(timeout); timeout = setTimeout(later, wait); if (callNow) func.apply(context, args); };
+};
+var hasVerticalCenter_EDEHH = document.getElementsByClassName('position-centered');
+function verticalCenter_EDEHH(element) { if(element) { element.style.opacity = 0;  element.style.display = 'block';  }
+setTimeout(function () { if (hasVerticalCenter_EDEHH.length > 0) { var windowHeight = Math.max(document.documentElement.clientHeight, window.innerHeight || 0); 
+ var formElement_EDEHH = document.getElementsByClassName('formbox-editor_EDEHH')[0]; var formHeight_EDEHH = formElement_EDEHH.clientHeight; 
+ if (formHeight_EDEHH < windowHeight) { var newPosition = 0; newPosition = (windowHeight - formHeight_EDEHH) / 2; formElement_EDEHH.style.top = newPosition + 'px'; } else { formElement_EDEHH.style.top = '0px'; } }
+if(element) { element.style.opacity = 1;  }
+ }, 100);
+}
+if (hasVerticalCenter_EDEHH.length > 0) { var resizeEvent_EDEHH = debounce_EDEHH(function() { verticalCenter_EDEHH(); }, 250); window.addEventListener('resize', resizeEvent_EDEHH); } 
+
+</script>
+<!-- END: Signup Form Popup Code from Benchmark Email Ver 4.0  -->
+			
+		</div>
+		<div class="footer-right footer-column footer-group-desktop">
+			<div class="footer-social">
+				<a href="https://www.youtube.com/channel/UCfDNi1aEljAQ17mUrfUjkvg" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/youtube-1.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/youtube-1.png?lossy=1&strip=1&webp=1"></noscript></a>
+				<a href="https://www.instagram.com/altonbrown/?hl=en" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/IG-1.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/IG-1.png?lossy=1&strip=1&webp=1"></noscript></a>
+				<a href="https://www.facebook.com/altonbrown/" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Facebook-1.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Facebook-1.png?lossy=1&strip=1&webp=1"></noscript></a>
+				<a href="https://twitter.com/altonbrown?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Twitter-1.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Twitter-1.png?lossy=1&strip=1&webp=1"></noscript></a>
+				<a href="https://open.spotify.com/playlist/2qS0xgmAoQIZLVA9aIPV1a" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Vector.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2020/06/Vector.png?lossy=1&strip=1&webp=1"></noscript></a>
+				<a href="https://imp.i309903.net/rnQD7j" target="_blank"><img  data-src='https://864720.smushcdn.com/1974081/wp-content/uploads/2021/04/AB_CameoLogo.png?lossy=1&strip=1&webp=1' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='><noscript><img src="https://864720.smushcdn.com/1974081/wp-content/uploads/2021/04/AB_CameoLogo.png?lossy=1&strip=1&webp=1"></noscript></a>
+			</div>
+		</div>
+		<div class="footer-left footer-left-mobile footer-column">
+			<ul>
+			<li><a href="https://altonbrown.com/" title="Home">Home</a></li><li><a href="https://altonbrown.com/cook/" title="Cook">Cook</a></li><li><a href="https://altonbrown.com/products/" title="Shop">Shop</a></li><li><a href="https://altonbrown.com/oh-bother-blog/" title="Blog">Blog</a></li><li><a href="https://altonbrown.com/news/" title="News">News</a></li><li><a href="https://altonbrown.com/videos/" title="Videos">Videos</a></li><li><a href="https://altonbrown.com/about/" title="About">About</a></li><li><a href="https://altonbrown.com/contact/" title="Contact">Contact</a></li>			</ul>
+		</div>
+</div>
+	<div class="sub-footer">
+		&copy; ALTON BROWN 2021 / <a href="/terms-conditions">TERMS & CONDITIONS</a> / <a href="https://www.exploregeorgia.org/film" target="_blank">MADE IN GA</a>
+	</div>
+	<div class="sub-footer-mobile">
+		<div class="sub-footer-mobile-inner">
+		&copy; ALTON BROWN 2021<br /><a href="/terms-conditions">TERMS & CONDITIONS</a><br /><a href="https://www.exploregeorgia.org/film" target="_blank">MADE IN GA</a>
+		</div>
+	</div>
+</div>
+
+<script>
+var getUpdates = document.querySelector('.footer-inner h3').innerHTML;
+var myArray = getUpdates.split("");
+var loopTimer;
+var trigger = document.getElementById('newsletter');
+if(trigger){
+	trigger.style.cursor = 'pointer';
+	trigger.style.textDecoration = 'underline';	
+	
+function frameLooper() {
+if(myArray.length > 0) {
+document.querySelector('.footer-inner h3').innerHTML += myArray.shift();
+} else {
+clearTimeout(loopTimer);
+	myArray = getUpdates.split("");
+return false;
+}
+loopTimer = setTimeout('frameLooper()',30);
+}
+	
+trigger.addEventListener('click',function(){
+	window.scrollTo(0,document.body.scrollHeight);
+	document.querySelector('.footer-inner h3').innerHTML = "";
+	frameLooper();
+});
+}
+
+</script>
+
+<script>
+
+var scrollHeader = document.getElementById('home-scroll-header');
+var mainHeader = document.getElementById('header');
+
+			scrollHeader.classList.add('home-header-active');
+			scrollHeader.style.position = 'sticky';
+			mainHeader.style.display = 'none';
+
+function md_adjust_meta_spacer() {
+	var meta_top;
+	jQuery(".slash").each(function() {
+        jQuery(this).removeClass("sep_off");
+	});
+	meta_top = jQuery("#cook-category-menu a").first().offset().top;
+	jQuery("#cook-category-menu a").each(function() {
+	    if (meta_top < jQuery(this).offset().top) {
+	        jQuery(this).prev(".slash").addClass("sep_off");
+		}
+		meta_top = jQuery(this).offset().top;
+	});
+}
+	
+$(document).ready(function(){
+	setTimeout(function(){
+		md_adjust_meta_spacer();
+	},200);
+});
+	
+window.addEventListener('resize',function(){
+	md_adjust_meta_spacer();
+});
+
+var searchBtn = document.querySelectorAll('.search-nav');
+var searchClose = document.getElementById('search-close');
+var menuBtn = document.querySelectorAll('.burger');
+var menuClose = document.getElementById('search-close-menu');
+var menuLogo = document.querySelector('#menu-header img');
+var showMenu = document.querySelector('.menu-show');
+var showSearch = document.querySelector('.search-show');
+var cookMobile = document.querySelector('#cook-menu-popup-mobile');
+var catMenu = document.querySelector('#cook-category-menu-mobile');
+var searchMenuItem = document.querySelector('#popup-main-menu a[title="SEARCH"]');
+	
+var menuOverlay = document.getElementById('menu-popup');
+var menuNoClose = document.getElementById('menu-header');
+var searchOverlay = document.getElementById('search-popup');
+var searchNoClose = document.getElementById('search-header');
+	
+menuOverlay.addEventListener('click',function(){
+	if(event.srcElement.classList == "menu-show"){
+		showMenu.style.top = '-300%';
+		showMenu.style.backgroundColor = 'rgba(0,0,0,0)';
+		showMenu.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+	}
+});
+	
+searchOverlay.addEventListener('click',function(){
+	if(event.srcElement.classList == "search-show"){
+		showSearch.style.top = '-300%';
+		showSearch.style.backgroundColor = 'rgba(0,0,0,0)';
+		showSearch.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+	}
+});
+	
+// searchMenuItem.removeAttribute('href');
+	
+// searchMenuItem.addEventListener('click',function(){
+// 	showMenu.style.top = '-300%';
+// 	showMenu.style.backgroundColor = 'rgba(0,0,0,0)';
+// 	showMenu.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+// 	showSearch.style.top = '0%';
+// 	showSearch.style.backgroundColor = 'rgba(0,0,0,0.7)';
+// 	showSearch.style.transition = 'top 0.5s ease, background-color 0.5s ease 0.5s';
+// });
+	
+	for(x=0;x<searchBtn.length;x++){
+		searchBtn[x].addEventListener('click',function(){
+			showSearch.style.top = '0%';
+			showSearch.style.backgroundColor = 'rgba(0,0,0,0.7)';
+			showSearch.style.transition = 'top 0.5s ease, background-color 0.5s ease 0.5s';
+		});
+	}
+
+	searchClose.addEventListener('click',function(){
+		showSearch.style.top = '-300%';
+		showSearch.style.backgroundColor = 'rgba(0,0,0,0)';
+		showSearch.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+	});
+
+	cookMobile.addEventListener('click',function(){
+		catMenu.style.display = 'block';
+		catMenu.style.margin = '0 0 2em 0';
+	});
+	
+	for(i=0;i<menuBtn.length;i++){
+		menuBtn[i].addEventListener('click',function(){
+			showMenu.style.top = '0%';
+			showMenu.style.backgroundColor = 'rgba(0,0,0,0.7)';
+			showMenu.style.transition = 'top 0.5s ease, background-color 0.5s ease 0.5s';
+		});
+	}
+
+	menuClose.addEventListener('click',function(){
+		showMenu.style.top = '-300%';
+		showMenu.style.backgroundColor = 'rgba(0,0,0,0)';
+		showMenu.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+	});
+
+	menuLogo.addEventListener('click',function(){
+		showMenu.style.top = '-300%';
+		showMenu.style.backgroundColor = 'rgba(0,0,0,0)';
+		showMenu.style.transition = 'top 0.5s ease 0.5s, background-color 0.5s ease';
+	});
+	
+		$(document).ready(function(){
+	setTimeout(function(){
+		var stickyNoteBtn = document.querySelectorAll('.sticky-note-btn');
+		var stickyNote = document.querySelectorAll('.sticky-note');
+		var stickyNoteText = document.querySelectorAll('.sticky-note-text');
+		
+		stickyNoteBtn.forEach(item => {
+			var popUp = item.nextElementSibling;
+			item.addEventListener('click',function(){
+				popUp.style.display = 'block';
+				popUp.style.top = event.offsetY + 'px';
+				popUp.style.left = event.offsetX + 'px';
+			});
+			document.addEventListener('click',function(){
+				if(event.target.className.indexOf('sticky-note-btn') == -1){
+ 					popUp.style.display = 'none';
+ 				}
+			})
+		});
+		
+	},300);
+	});
+	
+		
+	
+$(document).ready(function(){
+	setTimeout(function(){
+		var totalTime = document.querySelectorAll('.wprm-recipe-total-time-container')[1];
+		var activeTime = document.querySelectorAll('.wprm-recipe-prep-time-container')[1];
+		var yieldTime = document.querySelectorAll('.wprm-recipe-servings-container')[1];
+		var timeField = document.querySelectorAll('span.wprm-recipe-time.wprm-block-text-normal');
+
+		for(i=0;i<timeField.length;i++){
+			if(timeField[i].offsetHeight > 40){
+			totalTime.style.height = '70px';
+			activeTime.style.height = '70px';
+			yieldTime.style.height = '70px';
+			} else {
+				totalTime.style.height = 'auto';
+				activeTime.style.height = 'auto';
+				yieldTime.style.height = 'auto';
+			}
+		}
+	},300);
+	});
+
+	window.addEventListener('resize',function(){
+		var totalTime = document.querySelectorAll('.wprm-recipe-total-time-container')[1];
+		var activeTime = document.querySelectorAll('.wprm-recipe-prep-time-container')[1];
+		var yieldTime = document.querySelectorAll('.wprm-recipe-servings-container')[1];
+		var timeField = document.querySelectorAll('span.wprm-recipe-time.wprm-block-text-normal');
+		for(x=0;x<timeField.length;x++){
+			if(timeField[x].offsetHeight > 40){
+			totalTime.style.height = '70px';
+			activeTime.style.height = '70px';
+			yieldTime.style.height = '70px';
+			} else {
+				totalTime.style.height = 'auto';
+				activeTime.style.height = 'auto';
+				yieldTime.style.height = 'auto';
+			}
+		}
+	});
+	
+</script>
+
+</div>
+			<script type="text/javascript">
+			var _paq = _paq || [];
+			( function() {
+				if( window.apScriptInserted ) { return; }
+				_paq.push( [ "clientToken", "P%2bsIjEMd6oQ%3d" ] );
+				var d = document, g = d.createElement( "script" ), s = d.getElementsByTagName( "script" )[0];
+				g.type = "text/javascript";
+				g.async = true;
+				g.defer = true;
+				g.src = "https://prod.benchmarkemail.com/tracker.bundle.js";
+				s.parentNode.insertBefore( g, s );
+				window.apScriptInserted = true;
+			} )();
+			</script>
+		<!-- Exit Popup -->
+    <div id='exitpopup-modal'>
+      <div class='underlay'></div>
+	  <div class='exitpopup-modal-window' style='width:500px !important; height:500px !important;'>
+        <div class='modal-title' style='background-color:# !important;'>
+          <h3></h3>
+        </div>
+        <div class='modal-body'>
+			<style>
+#exitpopup-modal .exitpopup-modal-window {
+background-color: rgb(251, 229, 135) !important;
+text-align: center !important;
+max-width: 90%;
+margin: 0 auto;
+}
+.modal-body {
+padding: 25% 35px !important;
+}
+@media screen and (max-width: 400px){
+.modal-body h1 {
+font-size: 34px !important;
+}
+.modal-body h3 {
+font-size: 28px !important;
+}
+}
+</style>
+<div class="close" style="position: absolute;top: 0;right: -15px;color: white;">X</div>
+<h1 style="font-family:WindsorBTWXX-Roman;color: black; font-size: 42px;">Leaving so soon?</h1>
+<h3 style="font-family:WindsorBTWXX-Roman;color:black;font-size: 36px;text-transform:inherit;">Before you go, check out what’s new in the <a href="/products/" style="color: black;">Alton Brown Shop!</a></h3>        </div>
+        <div class='exitpopup-modal-footer'>
+          <p></p>
+        </div>
+		      </div>
+    </div>
+
+	<script type='text/javascript'>
+	  jQuery(document).ready(function($) {
+      var exit_popup_value = Cookies.get('viewedExitPopupWP'); // v3.0
+      if(!exit_popup_value){ // v3.0
+	  var _exitpopup = exitpopup(document.getElementById('exitpopup-modal'), {
+        aggressive: true,
+        timer: 0,
+		sensitivity: 20,
+		delay: 0,
+        sitewide: true,
+		cookieExpire: 1,
+        callback: function() { console.log('exitpopup fired!'); }
+      });
+
+      
+      $('body').on('click', function() {
+        $('#exitpopup-modal').hide();
+      });
+		      $('#exitpopup-modal .exitpopup-modal-footer').on('click', function() {
+        $('#exitpopup-modal').hide();
+      });
+      $('#exitpopup-modal .exitpopup-modal-window').on('click', function(e) {
+        e.stopPropagation();
+      });
+      } // v3.0
+      });
+	</script>
+<!-- End Exit Popup -->
+
+			<script type="text/javascript">
+				var _paq = _paq || [];
+					_paq.push(['setCustomDimension', 1, '{"ID":4,"name":"Level Agency","avatar":"b0f96aca1ea1f61d202e8fc9cd2d2d8e"}']);
+				_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '32686']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<div id="wpshopify-root"></div><div
+   data-wpshopify-component
+   data-wpshopify-component-id="2978550da6f43fb4c46ac04d19d81b1c6"
+   data-wpshopify-component-type="cart"
+   data-wpshopify-payload-settings="eyJyZW5kZXJfZnJvbV9zZXJ2ZXIiOmZhbHNlLCJpY29uIjpmYWxzZSwidHlwZSI6ImZpeGVkIiwiaW5saW5lX2JhY2tncm91bmRfY29sb3IiOiIjNmFlMDZhIiwiaW5saW5lX2NhcnRfY291bnRlcl90ZXh0X2NvbG9yIjoiIzAwMCIsImlubGluZV9pY29uX2NvbG9yIjoiIzAwMCIsInNob3dfY291bnRlciI6dHJ1ZSwiZGF0YV90eXBlIjpmYWxzZSwiaGlkZV93cmFwcGVyIjpmYWxzZSwiZml4ZWRfYmFja2dyb3VuZF9jb2xvciI6IiMwMDAwMDAiLCJmaXhlZF9jb3VudGVyX2NvbG9yIjoiI0ZGRiIsImZpeGVkX2ljb25fY29sb3IiOiIjRkZGIiwicXVlcnkiOiIqIn0=">
+   
+         <style>
+         .menu-item [data-wpshopify-component-type="cart"] {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+         }
+      </style>
+   </div><link rel='stylesheet' id='ivory-ajax-search-styles-css'  href='https://altonbrown.com/wp-content/plugins/add-search-to-menu-premium/public/css/ivory-ajax-search.min.css?ver=4.6.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wprm-public-css'  href='https://altonbrown.com/wp-content/uploads/hummingbird-assets/99ec5c978137e65299c448d56a4b39b1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmp-public-css'  href='https://altonbrown.com/wp-content/uploads/hummingbird-assets/423a365503a07c1ad1f0890e8f0aa9c4.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://altonbrown.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.8.5' id='smush-lazy-load-js'></script>
+<script type='text/javascript' defer src='https://altonbrown.com/wp-content/plugins/wp-shopify-pro/dist/runtime.b0ec7a.min.js?ver=5.7.2' id='wpshopify-runtime-js'></script>
+<script type='text/javascript' defer src='https://altonbrown.com/wp-content/plugins/wp-shopify-pro/dist/vendors-public.b0ec7a.min.js?ver=5.7.2' id='wpshopify-vendors-public-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://altonbrown.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/vendor/react.min.js?ver=16.13.1' id='react-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.13.1' id='react-dom-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/escape-html.min.js?ver=318abfb97a58ba13225ff74699ad73d4' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/element.min.js?ver=ade78933fc78fc95c1988dda7ccc9fb3' id='wp-element-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wpshopify-public-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "wpshopify", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' id='wpshopify-public-js-before'>
+function deepFreeze(object) {let propNames = Object.getOwnPropertyNames(object);for (let name of propNames) {let value = object[name];object[name] = value && typeof value === 'object' ? deepFreeze(value) : value;}return Object.freeze(object);}var wpshopify = window.wpshopify || {"settings":{"products":false,"syncing":{"reconnectingWebhooks":false,"hasConnection":true,"isSyncing":false,"manuallyCanceled":false,"isClearing":false,"isDisconnecting":false,"isConnecting":false},"general":{"id":1,"urlProducts":"\/products\/","urlCollections":"https:\/\/altonbrown.wpengine.com\/collections\/","urlWebhooks":"https:\/\/altonbrown.com","enableDefaultPages":true,"numPosts":10,"stylesAll":true,"stylesCore":false,"stylesGrid":false,"pluginName":"WP Shopify","pluginTextdomain":"wpshopify","pluginVersion":"3.7.1","pluginAuthor":"WP Shopify","priceWithCurrency":false,"currencyDisplayStyle":"symbol","cartLoaded":true,"titleAsAlt":false,"selectiveSyncAll":false,"selectiveSyncProducts":true,"syncByCollections":"","selectiveSyncCollections":true,"selectiveSyncCustomers":false,"selectiveSyncOrders":false,"selectiveSyncShop":true,"productsLinkTo":"wordpress","productsLinkTarget":"_self","showBreadcrumbs":false,"hidePagination":false,"alignHeight":false,"isFree":false,"isPro":false,"relatedProductsShow":true,"relatedProductsSort":"random","relatedProductsAmount":4,"allowInsecureWebhooks":false,"saveConnectionOnly":false,"appUninstalled":false,"itemsPerRequest":25,"enableBeta":true,"enableCartTerms":false,"enableCustomerAccounts":false,"cartTermsContent":"I agree with the terms and conditions.","enableCartNotes":false,"cartNotesPlaceholder":"Enter note for checkout","addToCartColor":"#415aff","variantColor":"#000000","checkoutColor":"#000000","cartCounterColor":"#6ae06a","cartIconColor":"#000","inlineCartCounterTextColor":"#000","productsHeadingToggle":true,"productsPlpDescriptionsToggle":false,"productsHeading":"Products","collectionsHeadingToggle":true,"collectionsHeading":"Collections","relatedProductsHeadingToggle":true,"relatedProductsHeading":"Related Products","productsImagesSizingToggle":false,"productsImagesSizingWidth":400,"productsImagesSizingHeight":400,"productsImagesSizingCrop":"center","productsImagesSizingScale":0,"productsImagesShowZoom":false,"productsThumbnailImagesSizingToggle":true,"productsThumbnailImagesSizingWidth":70,"productsThumbnailImagesSizingHeight":70,"productsThumbnailImagesSizingCrop":"center","productsThumbnailImagesSizingScale":0,"collectionsImagesSizingToggle":false,"collectionsImagesSizingWidth":400,"collectionsImagesSizingHeight":400,"collectionsImagesSizingCrop":"center","collectionsImagesSizingScale":0,"relatedProductsImagesSizingToggle":false,"relatedProductsImagesSizingWidth":0,"relatedProductsImagesSizingHeight":0,"relatedProductsImagesSizingCrop":"center","relatedProductsImagesSizingScale":0,"enableCustomCheckoutDomain":false,"productsCompareAt":false,"productsShowPriceRange":true,"checkoutButtonTarget":"_self","showFixedCartTab":false,"cartConditionalFixedTabLoading":"all","cartConditionalManuallySelectedPages":"","cartIconFixedColor":"#FFF","cartCounterFixedColor":"#FFF","cartFixedBackgroundColor":"#000000","pricingLocalCurrencyToggle":false,"pricingLocalCurrencyWithBase":false,"synchronousSync":true,"isLiteSync":false,"isSyncingPosts":true,"searchBy":"title","searchExactMatch":false,"pluginFreeBasename":"wpshopify\/wp-shopify.php","accountPageLogin":"","accountPageRegister":"","accountPageAccount":"","accountPageForgotPassword":"","accountPageSetPassword":"","hideDecimals":false,"enableDataCache":true,"dataCacheLength":120,"directCheckout":false,"enableAutomaticSyncing":false,"syncByWebhooks":["product_listings\/add","product_listings\/update"],"allowTracking":false,"syncMedia":false,"pageProducts":194,"pageCollections":195,"pageProductsDefault":194,"pageCollectionsDefault":195,"variantStyle":"dropdown","wizardCompleted":true,"defaultPagesCreated":true,"enableDiscountCodes":false,"compatibilityPluginVersion":"1.0.4"},"connection":{"masked":{"id":1,"apiKey":"****************************26c7","apiPassword":"**********************************3c39","sharedSecret":"**********************************1bae","storefrontAccessToken":"****************************61f7","accessToken":"","domain":"alton-brown-store.myshopify.com","nonce":"","shopName":""},"storefront":{"domain":"alton-brown-store.myshopify.com","storefrontAccessToken":"a064f178f2149b8d9bf3144e091461f7"}}},"notices":[],"api":{"namespace":"wpshopify\/v1","restUrl":"https:\/\/altonbrown.com\/wp-json\/","nonce":"1e683e2ab0"},"misc":{"postID":5827,"isMobile":false,"isSSL":true,"pluginsDirURL":"https:\/\/altonbrown.com\/wp-content\/plugins\/wp-shopify-pro\/","pluginsDistURL":"https:\/\/altonbrown.com\/wp-content\/plugins\/wp-shopify-pro\/dist\/","adminURL":"https:\/\/altonbrown.com\/wp-admin\/","siteUrl":"https:\/\/altonbrown.com","siteDomain":"altonbrown.com","isAdmin":false,"latestVersion":"3.7.1","isPro":true,"timers":{"syncing":false},"locale":"en_US","isLegacy":true}};deepFreeze(wpshopify);
+</script>
+<script type='text/javascript' defer src='https://altonbrown.com/wp-content/plugins/wp-shopify-pro/dist/public.b0ec7a.min.js?ver=5.7.2' id='wpshopify-public-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-content/plugins/add-search-to-menu-premium/public/js/ivory-search.min.js?ver=4.6.4' id='ivory-search-scripts-js'></script>
+<script type='text/javascript' src='https://altonbrown.com/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script>
+<script type='text/javascript' id='ivory-ajax-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvoryAjaxVars = {"ajaxurl":"https:\/\/altonbrown.com\/wp-admin\/admin-ajax.php","ajax_nonce":"f91c343f48"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-content/plugins/add-search-to-menu-premium/public/js/ivory-ajax-search.min.js?ver=4.6.4' id='ivory-ajax-search-scripts-js'></script>
+<script type='text/javascript' id='wprm-public-js-extra'>
+/* <![CDATA[ */
+var wprm_public = {"endpoints":{"analytics":"https:\/\/altonbrown.com\/wp-json\/wp-recipe-maker\/v1\/analytics"},"settings":{"features_comment_ratings":true,"template_color_comment_rating":"#343434","instruction_media_toggle_default":"on","video_force_ratio":false,"analytics_enabled":false,"print_new_tab":true},"post_id":"5827","home_url":"https:\/\/altonbrown.com\/","print_slug":"wprm_print","permalinks":"\/%postname%\/","ajax_url":"https:\/\/altonbrown.com\/wp-admin\/admin-ajax.php","nonce":"4bad250119","api_nonce":"1e683e2ab0","translations":{"Your Collections":"Your Collections","Editing User":"Editing User","Cancel":"Cancel","Add Item":"Add Item","Set a new amount for this ingredient:":"Set a new amount for this ingredient:","Set the number of servings":"Set the number of servings","Save to my Collections":"Save to my Collections","Add Column":"Add Column","Edit Columns":"Edit Columns","Add Group":"Add Group","Edit Groups":"Edit Groups","Remove Items":"Remove Items","Columns & Groups":"Columns & Groups","Hide Nutrition Facts":"Hide Nutrition Facts","Show Nutrition Facts":"Show Nutrition Facts","Print Collection":"Print Collection","Print Recipes":"Print Recipes","Shopping List":"Shopping List","Stop Removing Items":"Stop Removing Items","Actions":"Actions","Click to add:":"Click to add:","Drag and drop to add:":"Drag and drop to add:","Load more...":"Load more...","None":"None","Blue":"Blue","Red":"Red","Green":"Green","Yellow":"Yellow","Note":"Note","Color":"Color","Name":"Name","Ingredients":"Ingredients","cup":"cup","olive oil":"olive oil","Add Ingredient":"Add Ingredient","Edit Ingredients":"Edit Ingredients","Nutrition Facts (per serving)":"Nutrition Facts (per serving)","Search Recipes":"Search Recipes","Search Ingredients":"Search Ingredients","Add Custom Recipe":"Add Custom Recipe","Add Note":"Add Note","Add from Collection":"Add from Collection","Start typing to search...":"Start typing to search...","Nutrition Facts":"Nutrition Facts","Are you sure you want to delete all items in":"Are you sure you want to delete all items in","Stop Editing":"Stop Editing","Go Back":"Go Back","Recipe":"Recipe","Shopping List Options":"Shopping List Options","Include ingredient notes":"Include ingredient notes","Preferred Unit System":"Preferred Unit System","Collection":"Collection","Unnamed":"Unnamed","Deselect all":"Deselect all","Select all":"Select all","There are unsaved changes. Are you sure you want to leave this page?":"There are unsaved changes. Are you sure you want to leave this page?","Back":"Back","Right click and copy this link to allow others to edit this shopping list.":"Right click and copy this link to allow others to edit this shopping list.","Make sure to select some recipes for the shopping list first.":"Make sure to select some recipes for the shopping list first.","Generate Shopping List":"Generate Shopping List","The shopping list could not be saved. Try again later.":"The shopping list could not be saved. Try again later.","Save Shopping List":"Save Shopping List","Make sure to save the shopping list before printing.":"Make sure to save the shopping list before printing.","Print Shopping List":"Print Shopping List","Are you sure you want to generate a new shopping list for this collection? You will only be able to access this shopping list again with the share link.":"Are you sure you want to generate a new shopping list for this collection? You will only be able to access this shopping list again with the share link.","Regenerate Shopping List":"Regenerate Shopping List","Are you sure you want to delete this group, and all of the items in it?":"Are you sure you want to delete this group, and all of the items in it?","Your shopping list is empty.":"Your shopping list is empty.","Group":"Group","Edit Shopping List":"Edit Shopping List","Add Collection":"Add Collection","Edit Collections":"Edit Collections","Select a collection to add for this user":"Select a collection to add for this user","Add Saved Collection":"Add Saved Collection","Recipes":"Recipes","A name is required for this saved nutrition ingredient.":"A name is required for this saved nutrition ingredient.","Save a new Custom Ingredient":"Save a new Custom Ingredient","Amount":"Amount","Unit":"Unit","Name (required)":"Name (required)","Save for Later & Use":"Save for Later & Use","Use":"Use","Select a saved ingredient":"Select a saved ingredient","Match this equation to get the correct amounts:":"Match this equation to get the correct amounts:","Cancel Calculation":"Cancel Calculation","Go to Next Step":"Go to Next Step","Use These Values":"Use These Values","Nutrition Calculation":"Nutrition Calculation","n\/a":"n\/a","Values of all the checked ingredients will be added together and":"Values of all the checked ingredients will be added together and","divided by":"divided by","the number of servings for this recipe.":"the number of servings for this recipe.","Values of all the checked ingredients will be added together.":"Values of all the checked ingredients will be added together.","API Ingredients":"API Ingredients","Custom Ingredients":"Custom Ingredients","Recipe Nutrition Facts Preview":"Recipe Nutrition Facts Preview","Changes to these values can be made after confirming with the blue button.":"Changes to these values can be made after confirming with the blue button.","Select or search for a saved ingredient":"Select or search for a saved ingredient","No ingredients set for this recipe.":"No ingredients set for this recipe.","Used in Recipe":"Used in Recipe","Used for Calculation":"Used for Calculation","Nutrition Source":"Nutrition Source","Match & Units":"Match & Units","API":"API","Saved\/Custom":"Saved\/Custom","no match found":"no match found","Units n\/a":"Units n\/a","Find a match for:":"Find a match for:","Search":"Search","No ingredients found for":"No ingredients found for","No ingredients found.":"No ingredients found.","Results for":"Results for","This feature is only available in":"This feature is only available in","You need to set up this feature on the WP Recipe Maker > Settings > Unit Conversion page first.":"You need to set up this feature on the WP Recipe Maker > Settings > Unit Conversion page first.","Use Default":"Use Default","First Unit System":"First Unit System","Second Unit System":"Second Unit System","Conversion":"Conversion","Converted":"Converted","Original":"Original","Convert All Automatically":"Convert All Automatically","Convert":"Convert","Keep Unit":"Keep Unit","Automatically":"Automatically","Weight Units":"Weight Units","Volume Units":"Volume Units","Convert...":"Convert...","Ingredient Link Type":"Ingredient Link Type","Global: the same link will be used for every recipe with this ingredient":"Global: the same link will be used for every recipe with this ingredient","Custom: these links will only affect the recipe below":"Custom: these links will only affect the recipe below","Use Global Links":"Use Global Links","Custom Links for this Recipe only":"Custom Links for this Recipe only","Edit Global Links":"Edit Global Links","other recipe(s) affected":"other recipe(s) affected","This can affect other recipes":"This can affect other recipes","Affiliate Link":"Affiliate Link","No link set":"No link set","Edit Link":"Edit Link","Remove Link":"Remove Link","Are you sure you want to delete this link?":"Are you sure you want to delete this link?","Set Affiliate Link":"Set Affiliate Link","Editing Global Ingredient Links":"Editing Global Ingredient Links","Save Changes":"Save Changes","All fields are required.":"All fields are required.","Something went wrong. Make sure this key does not exist yet.":"Something went wrong. Make sure this key does not exist yet.","Are you sure you want to close without saving changes?":"Are you sure you want to close without saving changes?","Editing Custom Field":"Editing Custom Field","Creating new Custom Field":"Creating new Custom Field","Type":"Type","Key":"Key","my-custom-field":"my-custom-field","My Custom Field":"My Custom Field","Save":"Save","A label and key are required.":"A label and key are required.","Editing Nutrient":"Editing Nutrient","Creating new Nutrient":"Creating new Nutrient","Custom":"Custom","Calculated":"Calculated","my-custom-nutrient":"my-custom-nutrient","Label":"Label","My Custom Nutrient":"My Custom Nutrient","mg":"mg","Daily Need":"Daily Need","Calculation":"Calculation","Learn more":"Learn more","Decimal Precision":"Decimal Precision","Loading...":"Loading...","Editing Nutrition Ingredient":"Editing Nutrition Ingredient","Creating new Nutrition Ingredient":"Creating new Nutrition Ingredient","Are you sure you want to overwrite the existing values?":"Are you sure you want to overwrite the existing values?","Import values from recipe":"Import values from recipe","Cancel import":"Cancel import","Use this recipe":"Use this recipe","Sort:":"Sort:","Filter:":"Filter:","Edit Recipe Submission":"Edit Recipe Submission","Approve Submission":"Approve Submission","Approve Submission & Add to new Post":"Approve Submission & Add to new Post","Delete Recipe Submission":"Delete Recipe Submission","Are you sure you want to delete":"Are you sure you want to delete","ID":"ID","Date":"Date","User":"User","Edit Nutrient":"Edit Nutrient","Delete Custom Nutrient":"Delete Custom Nutrient","Active":"Active","View and edit collections for this user":"View and edit collections for this user","User ID":"User ID","Display Name":"Display Name","Email":"Email","# Collections":"# Collections","Show All":"Show All","Has Saved Collections":"Has Saved Collections","Does not have Saved Collections":"Does not have Saved Collections","# Items in Inbox":"# Items in Inbox","# Items in Collections":"# Items in Collections","Your Custom Fields":"Your Custom Fields","Custom Field":"Custom Field","Custom Fields":"Custom Fields","Custom Nutrition Ingredient":"Custom Nutrition Ingredient","Custom Nutrition":"Custom Nutrition","Custom Nutrient":"Custom Nutrient","Custom Nutrients":"Custom Nutrients","Features":"Features","Saved Collection":"Saved Collection","Saved Collections":"Saved Collections","User Collection":"User Collection","User Collections":"User Collections","Recipe Submissions":"Recipe Submissions","Recipe Submission":"Recipe Submission","Edit Field":"Edit Field","Delete Field":"Delete Field","Edit Custom Ingredient":"Edit Custom Ingredient","Delete Custom Ingredient":"Delete Custom Ingredient","Edit Saved Collection":"Edit Saved Collection","Duplicate Saved Collection":"Duplicate Saved Collection","Delete Saved Collection":"Delete Saved Collection","Default":"Default","Save Collection Link":"Save Collection Link","# Items":"# Items"}};
+var wprmpuc_recipe_5520 = {"ingredients":[{"amount":"2","unit":"fluid ounces","name":"vodka","notes":"","converted":{"2":{"amount":"56","unit":"milliliters"}},"id":1074},{"amount":"1\/2","unit":"fluid ounce","name":"freshly squeezed lemon juice","notes":"","converted":{"2":{"amount":"14","unit":"milliliters"}},"id":182},{"amount":"1\/2","unit":"fluid ounce","name":"blood orange juice","notes":"","converted":{"2":{"amount":"14","unit":"milliliers"}},"id":4025},{"amount":"6","unit":"fluid ounces","name":"ginger beer, not ale","notes":"","converted":{"2":{"amount":"170","unit":"milliliters"}},"id":4026},{"amount":"4","unit":"dashes","name":"grapefruit bitters","notes":"","converted":{"2":{"amount":"1","unit":"milliliter"}},"id":4027}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-content/plugins/wp-recipe-maker/dist/public-modern.js?ver=7.3.0' id='wprm-public-js'></script>
+<script type='text/javascript' id='wprmp-public-js-extra'>
+/* <![CDATA[ */
+var wprmp_public = {"settings":{"recipe_template_mode":"modern","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"1","fractions_enabled":false,"fractions_use_mixed":true,"fractions_use_symbols":true,"fractions_max_denominator":"8","features_comment_ratings":true,"features_user_ratings":true,"user_ratings_force_comment":"never","user_ratings_force_comment_scroll_to":"","servings_changer_display":"tooltip_slider","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/altonbrown.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":52428800,"text":{"image_size":"The image file is too large"}},"endpoints":{"collections":"https:\/\/altonbrown.com\/wp-json\/wp\/v2\/wprm_collection","collections_helper":"https:\/\/altonbrown.com\/wp-json\/wp-recipe-maker\/v1\/recipe-collections"},"collections":{"default":{"inbox":{"id":0,"name":"My Saved Recipes","nbrItems":0,"columns":[{"id":0,"name":"Recipes"}],"groups":[{"id":0,"name":""}],"items":{"0-0":[]}},"user":[]}},"user":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://altonbrown.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-elite.js?ver=7.3.0' id='wprmp-public-js'></script>
+<style type="text/css">/*.site-container {
+	background-color: #EDEDED !important;
+}*/
+
+
+.site-inner {
+	padding-top: 0 !important;
+}
+
+.wprm-recipe-template-ab-recipe-template-main {
+	margin-top: 0 !important;
+}
+
+.wprm-recipe-keyword-container {
+	display: none !important;
+}
+
+span.wprm-recipe-course.wprm-block-text-uppercase {
+	color: #D97056;
+    font-size: 0.8em;
+}
+
+.left-top-section {
+	padding: 25px 60px 25px 25px;
+}
+
+.wprm-recipe-template-ab-recipe-template-social-bar {
+	margin: 1em 0 2em 0;
+}
+
+.wprm-recipe-instruction-text span {
+	font-size: 18px;
+}
+
+h3.wprm-recipe-header.wprm-recipe-ingredients-header.wprm-block-text-bold.wprm-align-left.wprm-header-decoration-none {
+	padding: 10px 1em !important;
+    background-color: #C0D4D5 !important;
+    margin-top: -2px !important;
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+}
+
+h3.wprm-recipe-header.wprm-recipe-equipment-header.wprm-block-text-bold.wprm-align-left.wprm-header-decoration-none {
+	padding: 10px 1em !important;
+    background-color: #FBE587 !important;
+    margin-top: 0px !important;
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+}
+
+button.wprm-unit-conversion.wprmpuc-active {
+	background-color: #C0D4D5 !important;
+    color: black !important;
+    z-index: 10;
+}
+
+.wprm-recipe-container .wprm-unit-conversion-container-buttons button.wprm-unit-conversion:not(.wprmpuc-active) {
+	background-color: #FBE587 !important;
+    color: black !important;
+    border-bottom: 2px solid #333333 !important;
+}
+
+.wprm-recipe-ingredients-header, .wprm-recipe-equipment-header {
+	font-family: schoolbook, serif !important;
+    font-weight: 700 !important;
+}
+
+.wprm-unit-conversion-container-buttons button.wprm-unit-conversion {
+	width: 100% !important;
+    border-radius: 30px 30px 0 0 !important;
+    border-top: 2px solid black !important;
+    border-left: 2px solid black !important;
+    border-right: 2px solid black !important;
+    text-transform: uppercase !important;
+}
+
+.wprm-unit-conversion-container-buttons {
+    margin-left: 20px;
+    border-bottom: none;
+    width: 90% !important;
+    border: none !important;
+}
+
+button.wprm-unit-conversion[data-system="2"] {
+	margin-left: -10px;
+}
+
+a.wprm-recipe-print.wprm-recipe-link.wprm-print-recipe-shortcode.wprm-block-text-normal.wprm-recipe-print-button.wprm-recipe-link-button.wprm-color-accent {
+	border: 2px solid black !important;
+    width: 80%;
+    margin-left: 0 !important;
+    text-align: center;
+}
+
+.wprm-recipe-template-ab-recipe-template .ab-ingredients li {
+	margin-left: 0 !important;
+    padding: 10px 1em !important;
+}
+
+li.wprm-recipe-ingredient:nth-child(odd) {
+	background-color: #DAEAEA !important;
+}
+
+li.wprm-recipe-ingredient:nth-child(even) {
+	background-color: #C0D4D5 !important;
+}
+
+li.wprm-recipe-equipment-item:nth-child(odd) {
+	background-color: #FCF3D4 !important;
+}
+
+li.wprm-recipe-equipment-item:nth-child(even) {
+	background-color: #FBE587 !important;
+}
+
+span.wprm-recipe-icon {
+	margin-right: 10px;
+}
+
+.wprm-recipe-summary.wprm-block-text-normal {
+	margin: 2em 0;
+}
+
+.wprm-recipe-template-ab-recipe-template-left {
+	margin-right: 20px !important;
+    padding: 0px !important;
+    background-color: white;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    height: fit-content;
+}
+
+.wprm-recipe-template-ab-recipe-template-right {
+	margin-top: 25px !important;
+}
+
+.wprm-recipe-template-ab-recipe-template {
+    margin: 0px auto;
+    background-color: #f3eedd; /*wprm_background type=color*/
+    font-family: inherit; /*wprm_main_font_family type=font*/
+    font-size: 0.9em; /*wprm_main_font_size type=font_size*/
+    line-height: 1.5em !important; /*wprm_main_line_height type=font_size*/
+    color: #333333; /*wprm_main_text type=color*/
+    max-width:100%;
+    padding: 0 !important;
+    position: relative;
+}
+.wprm-recipe-template-ab-recipe-template a {
+    color: #d97056;
+    text-decoration: underline;
+}
+.wprm-recipe-template-ab-recipe-template p, .wprm-recipe-template-ab-recipe-template li {
+    font-family: inherit; /*wprm_main_font_family type=font*/
+    font-size: 1em !important;
+    line-height: 1.5em !important; /*wprm_main_line_height type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template li {
+    margin: 0 0 0 32px !important;
+    padding: 0 !important;
+}
+.rtl .wprm-recipe-template-ab-recipe-template li {
+    margin: 0 32px 0 0 !important;
+}
+.wprm-recipe-template-ab-recipe-template ol, .wprm-recipe-template-ab-recipe-template ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.wprm-recipe-template-ab-recipe-template br {
+    display: none;
+}
+.wprm-recipe-template-ab-recipe-template .wprm-recipe-name,
+.wprm-recipe-template-ab-recipe-template .wprm-recipe-header {
+    font-family: inherit; /*wprm_header_font_family type=font*/
+    color: #212121; /*wprm_header_text type=color*/
+    line-height: 1.3em; /*wprm_header_line_height type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h1,
+.wprm-recipe-template-ab-recipe-template h2,
+.wprm-recipe-template-ab-recipe-template h3,
+.wprm-recipe-template-ab-recipe-template h4,
+.wprm-recipe-template-ab-recipe-template h5,
+.wprm-recipe-template-ab-recipe-template h6 {
+    font-family: inherit; /*wprm_header_font_family type=font*/
+    color: #212121; /*wprm_header_text type=color*/
+    line-height: 1.3em; /*wprm_header_line_height type=font_size*/
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.wprm-recipe-template-ab-recipe-template .wprm-recipe-header {
+    margin-top: 1.2em !important;
+}
+.wprm-recipe-template-ab-recipe-template h1 {
+    font-size: 2em; /*wprm_h1_size type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h2 {
+    font-size: 1.8em; /*wprm_h2_size type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h3 {
+    font-size: 1.2em; /*wprm_h3_size type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h4 {
+    font-size: 1em; /*wprm_h4_size type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h5 {
+    font-size: 1em; /*wprm_h5_size type=font_size*/
+}
+.wprm-recipe-template-ab-recipe-template h6 {
+    font-size: 1em; /*wprm_h6_size type=font_size*/
+}.wprm-recipe-template-ab-recipe-template {
+	border-style: solid; /*wprm_border_style type=border*/
+	border-width: 0px; /*wprm_border_width type=size*/
+	border-color: #aaaaaa; /*wprm_border type=color*/
+	border-radius: 0px; /*wprm_border_radius type=size*/
+	padding: 10px;
+}
+.wprm-recipe-template-ab-recipe-template-name-stars-container {
+	display: flex;
+	flex-wrap: wrap;
+	min-width: 150px;
+}
+.wprm-recipe-template-ab-recipe-template-name-stars-container .wprm-recipe-name {
+	margin-right: 5px;
+}
+.wprm-recipe-template-ab-recipe-template-main {
+	clear: both;
+	display: flex;
+
+	border-style: solid; /*wprm_border_style type=border*/
+	border-width: 0px; /*wprm_border_width type=size*/
+	border-color: #aaaaaa; /*wprm_border type=color*/
+	border-left: 0;
+	border-right: 0;
+
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+.wprm-recipe-template-ab-recipe-template-left {
+	flex: 1;
+	margin-right: 10px;
+}
+.wprm-recipe-template-ab-recipe-template-right {
+	flex: 2;
+}
+
+.rtl .wprm-recipe-template-ab-recipe-template-name-stars-container .wprm-recipe-name {
+	margin-left: 5px;
+	margin-right: 0;
+}
+.rtl .wprm-recipe-template-ab-recipe-template-left { 
+	margin-left: 10px;
+	margin-right: 0;
+}
+
+@media only screen and (max-width: 991px) {
+	.wprm-recipe-template-ab-recipe-template-main {
+		display: block;
+	}
+}
+
+.wprm-recipe-course-label {
+	display: none;
+}
+
+.wprm-recipe-template-snippet-basic {
+display: none;
+}
+
+.wprm-recipe-prep-time-container {
+	margin-left: 0 !important;
+}
+
+.wprm-recipe-prep-time-container, .wprm-recipe-total-time-container, .wprm-recipe-servings-container {
+	border: 2px solid black;
+    margin: 0 0 0 -2px !important;
+    width: 33%;
+    vertical-align: middle;
+    height:auto;
+    text-align: center;
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #FBE587;
+}
+
+.wprm-recipe-image img {
+    height: auto;
+    max-height: 800px;
+    width: auto;
+    object-fit: cover;
+    max-width: 100%;
+    margin-bottom: 15px !important;
+}
+
+ul.wprm-advanced-list li:before {
+	width: 35px !important;
+    height: 35px !important;
+    margin-top: -5px !important;
+    font-weight: normal !important;
+    font-size: 24px !important;
+    border: 1px solid black !important;
+}
+
+.wprm-recipe-instruction-text span {
+    margin-left: 15px;
+}
+
+span.wprm-recipe-course.wprm-block-text-uppercase {
+	font-family: prestige-elite-std, monospace;
+    font-weight: 700;
+}
+
+h3.wprm-recipe-header.wprm-recipe-instructions-header {
+	margin: 1em 19px 1em 0  !important;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+    font-family: schoolbook, serif;
+    font-size: 2em;
+    text-transform: capitalize !important;
+}
+
+.wprm-recipe li.wprm-recipe-instruction {
+	border-bottom: 1px solid black;
+    margin: 0 19px 1em 0 !important;
+    padding: 0 25px 0 30px !important;
+}
+
+.recipe-right-intro {
+	padding-right: 19px;
+}
+
+:focus {
+	outline: none !important;
+}
+
+.recipe-right-mobile {
+	display: none;
+}
+
+.left-top-section {
+	padding: 25px 50px 75px 25px;
+    background-color: white;
+    margin-bottom: -50px;
+}
+
+.wprm-recipe-summary.wprm-block-text-normal {
+	margin: 1em 0 0 0 !important;
+}
+
+.wprm-recipe-template-ab-recipe-template h2 {
+	font-family: WindsorEloD !important;
+}
+
+.wprm-recipe-template-ab-recipe-template .wprm-recipe-name {
+	font-family: WindsorEloD;
+    font-size: 3em;
+    line-height: 40px;
+    margin-top: 15px !important;
+}
+
+a.wprm-recipe-print.wprm-recipe-link.wprm-print-recipe-shortcode.wprm-block-text-normal.wprm-recipe-print-button.wprm-recipe-link-button.wprm-color-accent {
+	font-family: WindsorEloD !important;
+    font-size: 2em;
+    padding: 14px 12px 5px 12px !important;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.wprm-recipe-prep-time-label, .wprm-recipe-total-time-label, .wprm-recipe-servings-label {
+	font-family: schoolbook, serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.wprm-recipe-instructions-container .wprm-recipe-instruction-media img {
+width: 100%;
+}
+
+@media screen and (max-width: 991px){
+	.recipe-right-desktop {
+    	display: none;
+    }
+    .recipe-right-mobile {
+    	display: block;
+    }
+    .wprm-recipe-prep-time-container, .wprm-recipe-total-time-container, .wprm-recipe-servings-container {
+    	width: 100% !important;
+        margin: 0 !important;
+        margin-top: -2px !important;
+    }
+    .wprm-recipe-template-ab-recipe-template-left {
+    	margin-right: 0 !important;
+    }
+    .recipe-right-intro {
+    	padding-right: 0 !important;
+    }
+    .wprm-recipe-instructions-container.wprm-block-text-normal {
+    	padding: 25px;
+    }
+    .wprm-recipe-template-ab-recipe-template {
+    	padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    .left-top-section {
+    	text-align: center;
+        padding: 25px 0 75px 0 !important;
+    }
+    .wprm-recipe-name.wprm-block-text-uppercase {
+    	padding: 0 40px !important;
+        margin-bottom: 1em !important;
+    }
+    .wprm-recipe-summary.wprm-block-text-normal {
+    	padding: 0 30px !important;
+    }
+    .print-social-container {
+    	display: flex;
+        flex-direction: column-reverse;
+    }
+    .wprm-recipe-template-ab-recipe-template-social-bar {
+    	margin-top: 2em !important;
+    }
+    a.wprm-recipe-print.wprm-recipe-link.wprm-print-recipe-shortcode.wprm-block-text-normal.wprm-recipe-print-button.wprm-recipe-link-button.wprm-color-accent {
+    	margin: 0 auto !important;
+    }
+}
+
+@media print {
+.read-more, .read-less, print-social-container {
+	display: none !important;
+}
+}
+
+a.wprm-recipe-in-collection.wprm-recipe-add-to-collection.wprm-recipe-link.wprm-block-text-normal.wprm-recipe-add-to-collection-inline-button.wprm-recipe-link-inline-button.wprm-color-accent {
+    display: none;
+}
+
+@media screen and (min-width: 1201px){
+	.wprm-recipe-details, .wprm-recipe-details-unit, .wprm-recipe-prep-time-label, .wprm-recipe-total-time-label, .wprm-recipe-servings-label {
+		font-size: 1.5em !important;
+	}
+}
+
+@media screen and (max-width: 1200px){
+	.wprm-recipe-details, .wprm-recipe-details-unit, .wprm-recipe-prep-time-label, .wprm-recipe-total-time-label, .wprm-recipe-servings-label {
+    	font-size: 1.2em !important;
+    }
+}
+
+.wprm-recipe-ingredients-container .wprm-recipe-ingredient-group-name {
+	margin-left: 0.8em !important;
+    margin-bottom: 0.8em !important;
+}
+
+.wprm-recipe-instructions-container .wprm-recipe-instruction-group-name {
+	margin-bottom: 0.8em !important;
+}
+
+.wprm-recipe-template-ab-recipe-template-left {
+	background-color: #FCF3D4 !important;
+}
+
+.wprm-block-text-uppercase-faded {
+	opacity: 1 !important;
+}
+
+.wprm-unit-conversion-container-buttons button.wprm-unit-conversion {
+	font-size: 14px !important;
+}.wprm-recipe-template-snippet-basic {
+    font-family: inherit; /* wprm_font_family type=font */
+    font-size: 1em; /* wprm_font_size type=font_size */
+    text-align: center; /* wprm_text_align type=align */
+    margin-top: 0px; /* wprm_margin_top type=size */
+    margin-bottom: 15px; /* wprm_margin_bottom type=size */
+}</style></body></html>
