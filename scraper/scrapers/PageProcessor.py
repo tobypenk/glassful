@@ -27,8 +27,10 @@ class PageProcessor:
 		cached_pages = [file for file in listdir("site_data_cache") if isfile(join("site_data_cache",file))]
 		
 		if self.local_url_path() in cached_pages:
+			print("local")
 			self.file_data = open(join("site_data_cache",self.local_url_path()))
 		else:
+			print("remote")
 			import urllib
 			import re
 			
@@ -56,6 +58,7 @@ class PageProcessor:
 	def extract_texts(self):
 		
 		from bs4 import BeautifulSoup, Comment
+		import re
 		
 		for match in self.soup.findAll('span'):
 			for p in match.findAll('p'):
@@ -129,6 +132,7 @@ class PageProcessor:
 	def classify_strings(self):
 		
 		from bs4 import BeautifulSoup, Comment
+		from tensorflow.keras.preprocessing.sequence import pad_sequences
 		
 		self.ingredients = []
 		self.steps = []
