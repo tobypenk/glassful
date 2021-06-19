@@ -91,7 +91,13 @@ class PageProcessor:
 				p.replace_with(' ' + p.text + ' ')
 			for span in match.findAll('span'):
 				span.replace_with(' ' + span.text + ' ')
-			match.replace_with(BeautifulSoup(re.sub("[\s]+"," ",re.sub("<!-- -->"," ",str(match).strip())),'html.parser'))
+			match.replace_with(BeautifulSoup(
+				re.sub(
+					"[\s]+",
+					" ",
+					re.sub("<!-- -->"," ",str(match).strip())
+				),
+			'html.parser'))
 		for match in self.soup.findAll('div',{'class':'ERSTime'}):
 			for div in match.findAll('div'):
 				div.replace_with(' ' + div.text + ' ')
@@ -174,5 +180,4 @@ class PageProcessor:
 			
 			
 			
-	
-			
+				

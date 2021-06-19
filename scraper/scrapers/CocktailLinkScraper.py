@@ -4,13 +4,14 @@ class CocktailLinkScraper:
 		pass
 		
 	def alton_brown(self,filepath):
+		
+		# to implement caching
     
 	    import urllib
 	    from bs4 import BeautifulSoup, Comment
 	    
 	    cl = "recipe-item-detail"
 	    links = []
-		## need a class for checking a file exists and opening it either from local (preferred) or remote origin
 	    soup = BeautifulSoup(open(filepath),'html.parser')
 	    grid = soup.find_all("div", {"class": cl})
 	    grid = BeautifulSoup(str(grid),'html.parser')
@@ -22,7 +23,7 @@ class CocktailLinkScraper:
 	    return self.alton_brown
 	    
 	def bbc(self):
-    
+		
 	    import urllib
 	    from bs4 import BeautifulSoup, Comment
 	    
