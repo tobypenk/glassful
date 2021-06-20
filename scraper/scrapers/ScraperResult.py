@@ -53,7 +53,7 @@ class ScraperResult:
 					
 				msr = "UNKNOWN_MEASURE"
 				for m in msr_cache:
-				    if re.search("(?<=[0-9]| )("+"|".join(m)+")(?= )",tmp_ing[0:12]) or re.search("^("+"|".join(m)+")(?= )",tmp_ing[0:12]):
+				    if re.search("(?<=[0-9]| )("+"|".join(m).lower()+")(?= )",tmp_ing[0:12].lower()) or re.search("^("+"|".join(m).lower()+")(?= )",tmp_ing[0:12].lower()):
 				        msr = m[0]
 				        break
 					
@@ -74,14 +74,16 @@ class ScraperResult:
 	def extract_quantity(self,s):
 	    import re
 	    
+	    s = s.lower()
+	    
 	    if len(s) == 0:
 	        q = 0
-	    elif (re.match("[a-zA-Z]",s[0])):
+	    elif (re.match("[a-z]",s[0])):
 	        q = 1
 	    elif (re.search("\\.",s[0:7])):
-	        q = float(re.sub("[a-zA-Z]","",s[0:7]))
+	        q = float(re.sub("[a-z]","",s[0:7]))
 	    else:
-	        q = re.sub("[a-zA-Z]","",s[0:7]).strip()
+	        q = re.sub("[a-z]","",s[0:7]).strip()
 	        q = q.split(" ")
 	        if (len(q) == 1):
 	            q = q[0]
@@ -111,6 +113,8 @@ class ScraperResult:
 	def clean_raw_string(self,s):
 		
 	    import re
+	    
+	    s = s.lower()
 	    
 	    s = re.sub("(?<=\\()(.*?)(?=\\))","",s)
 	    s = re.sub("\\(","",s)
