@@ -27,3 +27,9 @@ class Query:
 					self.result.append(row)
 					
 		return self.result
+		
+	def insert(self):
+		pass
+		
+	def insert_and_return_insert_id(self):
+		
